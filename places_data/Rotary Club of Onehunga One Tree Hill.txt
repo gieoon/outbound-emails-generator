@@ -1,0 +1,22 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ2zh1jndJDW0RCt3T6fpZsIs
+national_phone_number:021 963 899
+international_phone_number:+64 21 963 899
+formatted_address:146 Selwyn Street, Onehunga, Auckland 1061, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=10065644101372730634
+website_uri:https://www.rotaryonehungaonetreehill.co.nz/
+adr_format_address:<span class="street-address">146 Selwyn Street</span>, <span class="extended-address">Onehunga</span>, <span class="locality">Auckland</span> <span class="postal-code">1061</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:1
+display_name:Rotary Club of Onehunga One Tree Hill
+language:en
+short_formatted_address:146 Selwyn St, Onehunga, Auckland
+==== Review ====
+rating: 5
+text: Great bunch of people wants to help and make difference in the community
+language: en
+author: Mahesh Amrute
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVk5wGeaCDVrXRB7ftwNAJFuFGpdpl-Ky6uPiO9hAp-ob4=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/110466824348409742876/reviews
+publish_time: 2023-08-16T09:29:54Z

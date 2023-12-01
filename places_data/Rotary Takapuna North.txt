@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJMTJD--Q5DW0R2soHtt_ZAF0
+national_phone_number:021 943 823
+international_phone_number:+64 21 943 823
+formatted_address:Craig Road, Hauraki, Auckland 0620, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=6701595800382196442
+website_uri:no website
+adr_format_address:<span class="street-address">Craig Road</span>, <span class="extended-address">Hauraki</span>, <span class="locality">Auckland</span> <span class="postal-code">0620</span>, <span class="country-name">New Zealand</span>
+business_status:CLOSED_TEMPORARILY
+display_name:Rotary Takapuna North
+language:en
+short_formatted_address:Craig Rd, Hauraki, Auckland

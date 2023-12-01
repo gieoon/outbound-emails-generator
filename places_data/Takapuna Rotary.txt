@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJh7WPDNg5DW0R7fk6ZApe1hY
+national_phone_number:021 627 014
+international_phone_number:+64 21 627 014
+formatted_address:138 Hurstmere Road, Takapuna, Auckland 0622, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=1645606112574765549
+website_uri:https://www.takapunarotary.org.nz/contact-us
+adr_format_address:<span class="street-address">138 Hurstmere Road</span>, <span class="extended-address">Takapuna</span>, <span class="locality">Auckland</span> <span class="postal-code">0622</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Takapuna Rotary
+language:en
+short_formatted_address:138 Hurstmere Rd, Takapuna, Auckland

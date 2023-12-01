@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJZ5IVuXU5DW0Rcj1K0nBXZ5k
+national_phone_number:no phone number
+international_phone_number:no phone number
+formatted_address:181 Westhaven Drive, Westhaven, Marina 1011, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=11053899952480206194
+website_uri:https://www.facebook.com/Rotary.Auckland.Harbourside
+adr_format_address:<span class="street-address">181 Westhaven Drive</span>, <span class="extended-address">Westhaven</span>, <span class="locality">Marina</span> <span class="postal-code">1011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:The Rotary Club of Auckland Harbourside
+language:en
+short_formatted_address:181 Westhaven Dr, Westhaven, Marina

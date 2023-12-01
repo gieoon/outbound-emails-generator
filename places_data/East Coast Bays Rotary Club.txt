@@ -1,0 +1,30 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJyRSFhiA6DW0RRPywYkTe1FI
+national_phone_number:0210 542 191
+international_phone_number:+64 210 542 191
+formatted_address:231 East Coast Road, Campbells Bay, Auckland 0630, New Zealand
+utc_offset_minutes:780
+rating:4.5
+google_maps_uri:https://maps.google.com/?cid=5968639791467658308
+website_uri:https://www.rotaryecb.club/
+adr_format_address:<span class="street-address">231 East Coast Road</span>, <span class="extended-address">Campbells Bay</span>, <span class="locality">Auckland</span> <span class="postal-code">0630</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:2
+display_name:East Coast Bays Rotary Club
+language:en
+short_formatted_address:231 E Coast Rd, Campbells Bay, Auckland
+==== Review ====
+rating: 5
+text: Contribute so much for the community. Keeping the Rotary spirit for 50 years in the area and keep counting.
+language: en
+author: Willie Nguyen
+photo: https://lh3.googleusercontent.com/a/ACg8ocIhz9dJsSM7Dc_JzgwEu7uumtXLlUyXi7k-mZC45Gka=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/107954471924845982408/reviews
+publish_time: 2023-09-30T09:08:22Z
+==== Review ====
+rating: 4
+text: 
+language: 
+author: Bonnie Valtcheff
+photo: https://lh3.googleusercontent.com/a/ACg8ocJRehrusZ5YGAJDGAH71wtqgCY0cLHhOnC3vFE-S13j=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/114483670331052309790/reviews
+publish_time: 2018-06-24T10:09:47Z

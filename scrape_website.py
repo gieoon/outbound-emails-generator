@@ -9,7 +9,7 @@ from _openai import extract_from_page
 async def get_company_website_details(page, url):
     
     # return type [title, meta_description, emails, owners]
-    return  await get_url_details(page, url, "")
+    return await get_url_details(page, url, "")
 
 
     
@@ -17,8 +17,10 @@ async def get_company_website_details(page, url):
 async def get_url_details(page, company_url, content, no_recursion=False):
     # for company_url in f.readlines():
     #     print("company_url: ", company_url)
-    await page.goto(company_url)
-
+    try:
+        await page.goto(company_url)
+    except:
+        return [None, None, None, None, None]
     # dimensions = await page.evaluate('''() => {
     # return {
     #     width: document.documentElement.clientWidth,
@@ -38,7 +40,11 @@ async def get_url_details(page, company_url, content, no_recursion=False):
     title = await page.title()
     print('title:', title)
     meta_description = await page.querySelector("head > meta[name='description']")
-    meta_description = await page.evaluate('(element) => element.content', meta_description)
+    if meta_description:
+        meta_description = await page.evaluate('(element) => element.content', meta_description)
+    else:
+        meta_description = ''
+
     print('meta_description:', meta_description)
     content += await page.evaluate('document.body.innerText', force_expr=True)
     content = content.replace('\n', ' ')

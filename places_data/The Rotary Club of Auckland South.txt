@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ-f6X7YtIDW0RhJw1I8vyT5c
+national_phone_number:022 328 1288
+international_phone_number:+64 22 328 1288
+formatted_address:155A Great South Road, Greenlane, Auckland 1051, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=10903200177170259076
+website_uri:https://rotaryaucklandsouth.org.nz/page/raffle
+adr_format_address:<span class="street-address">155A Great South Road</span>, <span class="extended-address">Greenlane</span>, <span class="locality">Auckland</span> <span class="postal-code">1051</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:The Rotary Club of Auckland South
+language:en
+short_formatted_address:155A Great South Rd, Greenlane, Auckland

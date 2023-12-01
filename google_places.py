@@ -28,7 +28,7 @@ def searchNearby(query):
 
     # Print the response
     response_json = json.loads(response.text)
-    print(response_json['places'][0])
+    # print(response_json['places'][0])
 
     for place in response_json['places']:
         place_obj = process_place(place)
@@ -36,32 +36,39 @@ def searchNearby(query):
 def process_place (place):
     out = {}
 
+    print('place: ', place)
+
     # Number of ratings
     out['url'] = 'https://www.google.com/maps/place/?q=place_id:' + place['id']
-    out['national_phone_number'] = place['nationalPhoneNumber']
-    out['international_phone_number'] = place['internationalPhoneNumber']
+    out['national_phone_number'] = place['nationalPhoneNumber'] if 'nationalPhoneNumber' in place else 'no phone number'
+    out['international_phone_number'] = place['internationalPhoneNumber'] if 'internationalPhoneNumber' in place else 'no phone number'
     out['formatted_address'] = place['formattedAddress']
     out['utc_offset_minutes'] = place['utcOffsetMinutes']
-    out['rating'] = place['rating']
+    if 'rating' in place:
+        out['rating'] = place['rating']
     out['google_maps_uri'] = place['googleMapsUri']
-    out['website_uri'] = place['websiteUri']
+    out['website_uri'] = place['websiteUri'] if 'websiteUri' in place else 'no website'
+
     out['adr_format_address'] = place['adrFormatAddress']
     out['business_status'] = place['businessStatus']
-    out['user_rating_count'] = place['userRatingCount']       
+    if 'userRatingCount' in place:
+        out['user_rating_count'] = place['userRatingCount']       
     out['display_name'] = place['displayName']['text']
     out['language'] = place['displayName']['languageCode']
     out['short_formatted_address'] = place['shortFormattedAddress']
     out['reviews'] = []
-    for review in place['reviews']:
-        out['reviews'].append({
-            "rating": review['rating'],
-            'text': review['text']['text'],
-            'language': review['text']['languageCode'],
-            'author': review['authorAttribution']['displayName'],
-            'photo': review['authorAttribution']['photoUri'],
-            'uri': review['authorAttribution']['uri'],
-            'publish_time': review['publishTime']
-        })
+    if 'reviews' in place:
+        for review in place['reviews']:
+            print('review: ', review)
+            out['reviews'].append({
+                "rating": review['rating'],
+                'text': review['text']['text'] if 'text' in review else '',
+                'language': review['text']['languageCode'] if 'text' in review else '',
+                'author': review['authorAttribution']['displayName'],
+                'photo': review['authorAttribution']['photoUri'],
+                'uri': review['authorAttribution']['uri'],
+                'publish_time': review['publishTime']
+            })
     print(out)
     f = open('./places_data/' + out['display_name'] + '.txt', 'w')
     for key in out:
@@ -78,7 +85,8 @@ def process_place (place):
     f.close()
 
     delimiter = '¿'
-    f2 = open('./companies_place_data.txt', 'w', encoding='utf-8')
+
+    f2 = open('./companies_place_data.txt', 'a', encoding='utf-8')
 
     # google_maps_url, company_name, company_url, company_phone, company_description, company_owners
     print(out['url'])
@@ -95,5 +103,5 @@ def process_place (place):
     
 # searchNearby('Website developers in Nelson, New Zealand')
 # query = "Webbi Digital Studio, Richmond Nelson"
-query = "Rotary Clubs in Nelson"
+query = "Rotary Clubs in Auckland"
 searchNearby(query)

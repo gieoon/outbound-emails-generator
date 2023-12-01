@@ -51,7 +51,7 @@ async def generate_email(title, meta_description, website_owners, company_name, 
         model="gpt-4-1106-preview"
     )
     
-    print('chat_completion:', chat_completion)
+    # print('chat_completion:', chat_completion)
     return chat_completion.choices[0].message.content
 
 async def extract_from_page (content):

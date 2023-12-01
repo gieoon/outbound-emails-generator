@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJfb1EpHZHDW0R3mMvp8gmOeM
+national_phone_number:021 635 027
+international_phone_number:+64 21 635 027
+formatted_address:442 Mount Eden Road, Mount Eden, Auckland 1024, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=16373160563522364382
+website_uri:no website
+adr_format_address:<span class="street-address">442 Mount Eden Road</span>, <span class="extended-address">Mount Eden</span>, <span class="locality">Auckland</span> <span class="postal-code">1024</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Rotary Club of Mount Eden
+language:en
+short_formatted_address:442 Mount Eden Rd, Mount Eden, Auckland

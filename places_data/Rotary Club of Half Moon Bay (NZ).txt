@@ -1,0 +1,30 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ000-5jFzLwARm1I3esQNm4M
+national_phone_number:no phone number
+international_phone_number:no phone number
+formatted_address:1 Ara-Tai Road, Half Moon Bay, Auckland 2012, New Zealand
+utc_offset_minutes:780
+rating:3
+google_maps_uri:https://maps.google.com/?cid=9483188577873908379
+website_uri:no website
+adr_format_address:<span class="street-address">1 Ara-Tai Road</span>, <span class="extended-address">Half Moon Bay</span>, <span class="locality">Auckland</span> <span class="postal-code">2012</span>, <span class="country-name">New Zealand</span>
+business_status:CLOSED_TEMPORARILY
+user_rating_count:2
+display_name:Rotary Club of Half Moon Bay (NZ)
+language:en
+short_formatted_address:1 Ara-Tai Rd, Half Moon Bay, Auckland
+==== Review ====
+rating: 5
+text: #Throwback: We were given the opportunity to present our ideas of an online business to the rotarians of their club. The audience seemed quite interested to learn more and were keen to invest into the idea.
+language: en
+author: AJQ
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWAZ3uPAJEA0BQqa6A48AV5kV9ucpR8gYcXEKfy8rdkYeE=s128-c0x00000000-cc-rp-mo-ba6
+uri: https://www.google.com/maps/contrib/103547552580724750541/reviews
+publish_time: 2017-01-22T13:24:05Z
+==== Review ====
+rating: 1
+text: Very disappointed. We booked the Half Moon Hotel for the location and special because was close to the club. They don't welcome visitors and didn't allow us to have drinks at the club.  There is no visitors concession.
+language: en
+author: Verusca Walker
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVetUCX9v74hCgijEvib69o7bjJu-8Nh0Yi_qi-xCNExE4=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/102175912755725116407/reviews
+publish_time: 2019-10-22T01:00:54Z
