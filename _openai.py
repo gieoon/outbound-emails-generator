@@ -33,7 +33,7 @@ async def generate_email(title, meta_description, website_owners, company_name, 
 
                     End the email with:
                     Jun Kagaya, 
-                    CEO, Webbi Digital Studio
+                    Web Designer, Webbi Digital Studio
                     https://www.webbi.co.nz
                     hello@webbi.co.nz
                     +64 022 091 0069 

@@ -5,20 +5,19 @@ EMAIL_API_SERVER = 'https://webbi-email-server.ts.r.appspot.com';
 
 # Straight out of ChatGPT's mouth.
 def send_plain_data(destination_email, subject, content, website_owners, retry_count=0):
-    print('SENDING EMAIL TO:', destination_email)
+    print('Sending email to ', destination_email)
+
     if not retry_count:
         retry_count = 0
 
-    subject = "A price estimate for your website"
-
-    support_email = "YOUR_SUPPORT_EMAIL"  # Replace with your actual support email
+    support_email = "hello@webbi.co.nz"  # Replace with your actual support email
 
     payload = {
         "subject": subject,
         "text": content,
         "destination_name": website_owners,
         "destination_email": destination_email,
-        "title": "Website design or redesign",
+        "title": subject,
         "from_name": "Webbi Digital Studio",
         "from_address": "hello@webbi.co.nz",
         "reply_email": support_email,
@@ -33,7 +32,7 @@ def send_plain_data(destination_email, subject, content, website_owners, retry_c
         'Content-Type': 'application/json'
     }
 
-    response = requests.post(email_api_server, data=json.dumps(payload), headers=headers)
+    response = requests.post(EMAIL_API_SERVER, data=json.dumps(payload), headers=headers)
 
     print("RESPONSE STATUS:", response.status_code)
 
@@ -41,7 +40,7 @@ def send_plain_data(destination_email, subject, content, website_owners, retry_c
     # TESTING
     if response.status_code != 200 and retry_count < 2:
         print('RESENDING AFTER FAIL')
-        send_plain_data(destination_email, retry_count + 1)
+        send_plain_data(destination_email, subject, content, website_owners, retry_count + 1)
         print('response text', response.text)
     
     elif retry_count == 2:

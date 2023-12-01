@@ -94,4 +94,6 @@ def process_place (place):
 
     
 # searchNearby('Website developers in Nelson, New Zealand')
-searchNearby("Webbi Digital Studio, Richmond Nelson")
+# query = "Webbi Digital Studio, Richmond Nelson"
+query = "Rotary Clubs in Nelson"
+searchNearby(query)
