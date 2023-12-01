@@ -33,7 +33,6 @@ async def send_emails():
                 val = input('Press Enter to approve and send . . .')
                 if len(val) == 0:
                     send_plain_data(destination_email, subject, email_stripped, owners , retry_count=0)
-                    print('Sent email')
                 else:
                     input('Not sending and skipping to the next email')
     else:

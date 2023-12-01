@@ -51,7 +51,7 @@ def send_plain_data(destination_email, subject, content, website_owners, retry_c
         print('response text', response.text)
     
     if response.status_code == 200:
-        print("Send email successfully")
+        print("Sent email successfully")
 
 # Example usage
 # send_plain_data("destination@example.com", "attachment_data", "attachment_path", callback_function)
