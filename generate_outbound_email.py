@@ -29,5 +29,7 @@ async def generate_email(title, meta_description, my_details):
         ],
         model="gpt-4-1106-preview"
     )
+    
     print('chat_completion:', chat_completion)
+    return chat_completion.choices[0].message.content
     

@@ -18,7 +18,7 @@ my_details = f"""
 
 async def main() -> None:
     for line in f.readlines():
-        [company_name, company_url,company_phone,company_description,company_owner] = line.split('¿')
+        [google_maps_url, company_name, company_url, company_phone, company_description, company_owner] = line.split('¿')
 
         [title, meta_description] = await get_company_website_details(company_url)
         email = await generate_email(title, meta_description, my_details)

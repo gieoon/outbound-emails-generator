@@ -2,6 +2,7 @@
 import requests
 import asyncio
 from pyppeteer import launch
+import re 
 
 # Watch the directory you're running it from.
 # f = open('./company_urls.txt', 'r')
@@ -11,6 +12,14 @@ async def get_company_website_details(url):
     browser = await launch(headless=True)
     page = await browser.newPage()
 
+    company_details = await get_url_details(page, url)
+
+    await browser.close()
+    # f.close()
+
+    
+
+async def get_url_details(page, company_url, no_recursion=False):
     # for company_url in f.readlines():
     #     print("company_url: ", company_url)
     await page.goto(company_url)
@@ -36,14 +45,46 @@ async def get_company_website_details(url):
     meta_description = await page.querySelector("head > meta[name='description']")
     meta_description = await page.evaluate('(element) => element.content', meta_description)
     print('meta_description:', meta_description)
-    # content = await page.evaluate('document.body.textContent', force_expr=True)
+    content = await page.evaluate('document.body.innerText', force_expr=True)
+    content = content.replace('\n', ' ')
 
-    await browser.close()
-    # f.close()
+    # Get email
+    emails = get_email(content)
+    # phone_numbers = get_phone_number(content)
+    # Check /about and /contact
+    if no_recursion == False:
+        if len(emails) == 0:# or len(phone_numbers) == 0:
+            [_, _, emails] = await get_url_details(page, company_url + '/contact', no_recursion=True)
+            
+            # if len(emails) == 0 or len(phone_numbers) == 0:
+            #     [_, _, emails, phone_numbers] = await get_url_details(page, company_url + '/about', no_recursion=True)
 
-    return [title, meta_description]
+    return [title, meta_description, emails]
 
+def get_email(content):
 
+    z = re.findall(r"(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|\"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*\")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])", content)
+    print('z:', z)
+    if len(z):
+
+        print('emails found: ', z)
+        emails = z
+        return emails
+    return []
+
+def get_owner_name(content):
+    TODO, use OpenAI to get the name of the owner.
+
+# def get_phone_number(content):
+#     print('content', content)
+#     z = re.match(r"(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}", content)
+#     if len(z):
+#         print('phone numbers found: ', z)
+#         phone_numbers = z
+        
+#         return phone_numbers
+#     return []
+    
 # import requests
 # from bs4 import BeautifulSoup
 
@@ -75,4 +116,5 @@ async def get_company_website_details(url):
 
 #     print(text_output)
 
-# get_url_content("https://www.webbi.co.nz")
+# import asyncio
+# asyncio.run(get_company_website_details("https://www.webbi.co.nz"))
