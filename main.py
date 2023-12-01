@@ -5,28 +5,50 @@ Send them out to each of them.
 """
 
 import asyncio
+from pyppeteer import launch
 from scrape_website import get_company_website_details
-from generate_outbound_email import generate_email
+from _openai import generate_email
 
-asyncio.get_event_loop().run_until_complete(main())
-
-f = open('./companies_details.txt', 'r')
+# This file is populated from google_places.py
+f = open('./companies_place_data.txt', 'r', encoding='utf-8')
 delimiter = '¿'
 
 my_details = f"""
+My company name: Webbi Digital Studio 
+My company description: A New Zealand-based website design agency building conversion focused websites that grow your brand. Sample work can be found on our home page so you can get an idea of what to expect.
 """
 
-async def main() -> None:
+async def main():
+    browser = await launch(headless=True)
+    page = await browser.newPage()
+
     for line in f.readlines():
-        [google_maps_url, company_name, company_url, company_phone, company_description, company_owner] = line.split('¿')
+        [google_maps_url, google_maps_company_name, company_url, company_phone, company_description, company_owners] = line.split('¿')
+        # print('loaded: ', google_maps_url, company_name, company_url, company_phone, company_description, company_owners)
+        [title, meta_description, emails, owners, company_name] = await get_company_website_details(page, company_url)
+        print("parent company_name", company_name)
+        print("generating email . . . ")
 
-        [title, meta_description] = await get_company_website_details(company_url)
-        email = await generate_email(title, meta_description, my_details)
+        if len(company_name) == 0:
+            print('replacing company name')
+            company_name = google_maps_company_name
+        
+        email = await generate_email(title, meta_description, owners, company_name, my_details)
         print('generated email: ', email)
+        # email = ''
 
-        email_f = open('/generated_emails/' + company_name + '.txt', 'w')
+        email = "Company Name: " + company_name + '\n' + email
+        email = "Email: " + ','.join(emails) + '\n' + email
+        email = "Owners: " + ','.join(owners) + '\n' + email
+
+        email_f = open('./generated_emails/' + company_name + '.txt', 'w', encoding='utf-8')
         email_f.write(email)
         email_f.close()
         print('finished writing email for ', company_name)
 
+    await browser.close()
+
+
 asyncio.run(main())
+
+# asyncio.get_event_loop().run_until_complete(main())

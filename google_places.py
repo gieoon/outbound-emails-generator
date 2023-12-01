@@ -78,16 +78,16 @@ def process_place (place):
     f.close()
 
     delimiter = '¿'
-    f2 = open('./companies_place_data.txt')
+    f2 = open('./companies_place_data.txt', 'w', encoding='utf-8')
 
-    # google_maps_url, company_name, company_url, company_phone, company_description, company_owner
+    # google_maps_url, company_name, company_url, company_phone, company_description, company_owners
     print(out['url'])
     f2.write(out['url'].replace(r"\/", '') + delimiter)
     f2.write(out['display_name'] + delimiter)
     f2.write(out['website_uri'] + delimiter)
     f2.write(out['national_phone_number'] + delimiter)
     f2.write('' + delimiter)
-    f2.write('' + delimiter)
+    f2.write('')
     f2.write('\n')
 
     f2.close()
