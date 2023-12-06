@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJBWR2Fg7tO20RAyXe2xx7x4I
+national_phone_number:03 548 1469
+international_phone_number:+64 3 548 1469
+formatted_address:2/105 Collingwood Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=9423636109174121731
+website_uri:http://www.fvm.co.nz/
+adr_format_address:2/<span class="street-address">105 Collingwood Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:7
+display_name:Fletcher Vautier Moore
+language:en
+short_formatted_address:2/105 Collingwood St, Nelson
+==== Review ====
+rating: 1
+text: There are probably some very fine legal executives and solicitors at FVM, but I did not meet them. My negative experience attempting to get enduring powers of attorney for my wife who has a very rare neurological disorder prompted me to withdraw all of my business from the firm.  Two firms later I was successful.
+language: en
+author: Donald Miller
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUB7ZFOlE_uSe2Ogx3ftaOFdvdHTkfVJlBo_2_TEshzxTg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113447256023076253919/reviews
+publish_time: 2019-07-30T06:06:22Z
+==== Review ====
+rating: 4
+text: A very professional Reception Clerk assisted  us with our requirements.
+language: en
+author: Alison Armstrong
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX-6ezVoabw2-JEutgcVhKwamCkgrrAh_032AU9NhO9NB4=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/113282094554980673734/reviews
+publish_time: 2018-10-13T06:07:54Z
+==== Review ====
+rating: 5
+text: Very friendly service
+language: en
+author: Wzrd Wizitch
+photo: https://lh3.googleusercontent.com/a-/ALV-UjURCZ_dzci5ULZYcSm4pfw7iqJJFQESgWlNaNi2OI2iDlY=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/109886466457389607488/reviews
+publish_time: 2020-02-29T12:00:35Z
+==== Review ====
+rating: 5
+text: Good lawyers
+language: en
+author: Neil Scott
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVd-uD32w-00t0N3h1gjp4F88ZUcUjpML22VWMTiQP0dg=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/101310500384134494127/reviews
+publish_time: 2019-09-21T04:51:43Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Rakesh Bandi
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWkvZ76V5s5wx5H3F_AiOKZn0rYNmGvbQpuUbhvwbivBV7b=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/117339540091045706596/reviews
+publish_time: 2017-10-22T02:18:51Z

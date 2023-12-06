@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ5zbYyQ_tO20ROcuLyj7lcgc
+national_phone_number:03 546 8034
+international_phone_number:+64 3 546 8034
+formatted_address:219 Trafalgar Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=536743363459402553
+website_uri:no website
+adr_format_address:<span class="street-address">219 Trafalgar Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Alastair Barraud AMP Financial Practice
+language:en
+short_formatted_address:219 Trafalgar St, Nelson

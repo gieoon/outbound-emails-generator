@@ -24,11 +24,10 @@ async def generate_email(title, meta_description, website_owners, company_name, 
 
                     ==========================================================
                     
-                    Generate a very short personalized email to this website's owner to introduce them to my website design services.
-                    Use simple and easy language. Keep it brief.
-                    Put their company name, {company_name} in the subject.
-                    Mention things in common between their company and mine. 
-                    Make it personal.
+                    Generate a very short email to this website's owner to introduce them to my website design services.
+                    Use simple and easy to read language. Keep it brief.
+                    Put their company name, {company_name} in the subject and personalize the email to their company and industry, with suggested offerings based on what they might need.
+                    Mention features I can provide which would be most useful to their company. 
                     Do not use placeholders.
 
                     End the email with:

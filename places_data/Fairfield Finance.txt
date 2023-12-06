@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ_S8Mcg7tO20R4OvR9sJvkw0
+national_phone_number:03 548 1322
+international_phone_number:+64 3 548 1322
+formatted_address:NZI House Level 1/105 Trafalgar Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=978248427224820704
+website_uri:no website
+adr_format_address:NZI House Level 1/<span class="street-address">105 Trafalgar Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Fairfield Finance
+language:en
+short_formatted_address:NZI House Level 1/105 Trafalgar St, Nelson

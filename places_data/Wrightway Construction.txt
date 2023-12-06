@@ -1,0 +1,58 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ1ftl9CmIMW0RacAeQ0vq6Vk
+national_phone_number:027 537 8636
+international_phone_number:+64 27 537 8636
+formatted_address:Unit 1/954 Ferry Road, Woolston, Christchurch 8023, New Zealand
+utc_offset_minutes:780
+rating:4.8
+google_maps_uri:https://maps.google.com/?cid=6478967147918704745
+website_uri:http://www.wrightwaynz.co.nz/
+adr_format_address:Unit 1/<span class="street-address">954 Ferry Road</span>, <span class="extended-address">Woolston</span>, <span class="locality">Christchurch</span> <span class="postal-code">8023</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:57
+display_name:Wrightway Construction
+language:en
+short_formatted_address:Unit 1/954 Ferry Rd, Woolston, Christchurch
+==== Review ====
+rating: 5
+text: We had Wrightway Construction complete our on-sold repair. They were amazing to work with, Luan the Project Manager was always around for any questions and always wanted to find the best, most cost effective solution for us. The quality of their finishing was fantastic, keeping and respecting the character or our 1930's property. Health and Safety is paramount too, they were always making sure that everyone was signing in and hitting anyone up if they weren't following health/safety protocols. The vibe of all the workers was positive, a very calm and supportive building site - we had a number of positive reports from neighbours on how friendly and respectful all the builders were. Definitely would recommend.
+language: en
+author: Emily Gribbin and George Gribbin
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUths2omrkwemkzI3J0dfQUT19dlS9cHAL-BqUgTLfyHhMR=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109522762895315267706/reviews
+publish_time: 2022-09-04T21:57:11Z
+==== Review ====
+rating: 5
+text: Wrightway managed our earthquake repairs. We were extremely impressed with the care they took with our home. The attention to detail was fantastic. The whole team was super friendly and easy to work with. Our project manager met with us regularly and kept us updated with progress all through out. Thanks Wrightway!
+language: en
+author: Hannah Burrowes
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVv4nQrKpmBrZXXxEev4c58YQJK8uD9C7BLPzsYhHzq9Q=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107906872926071971921/reviews
+publish_time: 2022-06-28T06:31:11Z
+==== Review ====
+rating: 5
+text: I cannot recommend Wrightway Construction enough. They have just completed a significant on-sold, with private works programme for us. From start to finish the communication was excellent, particularly as we were overseas for a good portion of the works. Everyone involved were a pleasure to work with and offered a professional, efficient and timely service. This company has managed to strike the perfect balance between professionalism, high quality work, great relationships and a competitive price. Thank you to everyone involved!
+language: en
+author: Colin Gladstone
+photo: https://lh3.googleusercontent.com/a/ACg8ocLJMNNQs47IVwkWFOpDgdbD6U8eTc9rkMyq2b7pCcu6=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103316968596129872393/reviews
+publish_time: 2022-10-07T08:15:43Z
+==== Review ====
+rating: 1
+text: Slowest in the world. I bought a house while my neighbour doing EQC repair for just a double garage. After many months that one garage is still under construction. Workers occasionally working in there. I want to do a raising garden in front of my house have to wait for them to finish the fence. Never ending project.
+I assume they have other bigger projects and this is not a priority for them.
+language: en
+author: Esmail Fathi
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUKNW4uBJses-MpTyKjgAz5zMnY_oixCSXRlAAOU5YbhHw=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107219187995400653645/reviews
+publish_time: 2023-04-24T23:11:56Z
+==== Review ====
+rating: 5
+text: I cannot speak highly enough of the service and quality of repairs done by Wrightway Construction and contractors.
+Excellent communication, fantastic project management from Luan. The work completed was to a high standard and by far exceeded my expectations. I would not hesitate in recommending Wrightway Construction they are hands down the best builders I have ever worked with.
+
+Thank you again.
+language: en
+author: Holly Page
+photo: https://lh3.googleusercontent.com/a/ACg8ocJIfh2rxgjuicP1Xpz0CVseV-Bsyrf4vIqKbAM6RVAi=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110439279398571134892/reviews
+publish_time: 2022-06-21T03:24:39Z

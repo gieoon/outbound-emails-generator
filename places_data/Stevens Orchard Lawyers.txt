@@ -1,0 +1,57 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJR52zT0OTO20R2glcFest_2I
+national_phone_number:03 547 6991
+international_phone_number:+64 3 547 6991
+formatted_address:459 Main Road Stoke, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=7133470822477072858
+website_uri:https://www.stevensorchard.co.nz/
+adr_format_address:<span class="street-address">459 Main Road Stoke</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:22
+display_name:Stevens Orchard Lawyers
+language:en
+short_formatted_address:459 Main Rd Stoke, Stoke, Nelson
+==== Review ====
+rating: 5
+text: Hellena and Margot were professional, efficient, and informative. The service fee was far less than I anticipated given the high quality of their work. Would highly recommend this firm.
+Thank you
+language: en
+author: Matt D'Arcy
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUz7UOvt3-2bdWa8bYKBia9mVM9YSMBeb7UWwNws1WZuay2=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112907738816901704410/reviews
+publish_time: 2019-11-28T04:16:36Z
+==== Review ====
+rating: 5
+text: Stevens Orchard have helped us with property sales  and purchases over the years, plus making a Will and general advice.  Great service, lovely people.  Would recommend.
+language: en
+author: Joanna Smith
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXLrCUBjYiLPh1mbGQMafG-f7J5RI41_9xF2zLRCtjpRQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107264177663635422166/reviews
+publish_time: 2020-05-27T23:27:00Z
+==== Review ====
+rating: 5
+text: Margot and the team at Stevens Orchard Lawyers in Stoke, Nelson were able to help me with purchasing my new residential investment property.  They conducted a title search and advised me on what to look out for and what conditions to put in my sale and purchase agreement. If you are a first home buyer or an investor buying homes I would highly recommend them.
+language: en
+author: Sean Thurlow
+photo: https://lh3.googleusercontent.com/a/ACg8ocJG5GljNBuhC5hj8eGX6dKdZjjLu-SaBubYWxkJe0jv=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102724803858855508471/reviews
+publish_time: 2019-08-26T00:35:29Z
+==== Review ====
+rating: 1
+text: Very poor service, I have been with this firm for 20 years but in the last 5 years it has taken a very bad turn and I no longer do bussnius with them, there rates are extremely inflated for the service you get which comes with very bad emails and advise which is not correct.
+If you are looking for a firm for day to day bussnius, wills, POA, house and trust matters I would look else were there are far better services out there.
+I would not recommend this firm to any body at all.
+language: en
+author: Aaron Fallen
+photo: https://lh3.googleusercontent.com/a/ACg8ocIoEOKKlZpsV97U1vdsDw4mVvf663p3ER2qfIxsC67U=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/116389792220702522199/reviews
+publish_time: 2019-11-02T09:02:36Z
+==== Review ====
+rating: 5
+text: The legal team at Stevens Orchard Law have assisted me with many personal and business matters and come highly recommended. Whether with partnership agreements or conveyancing for property acquisitions i highly recommend their attention to detail and profession legal service.
+language: en
+author: Peter Ogilvie
+photo: https://lh3.googleusercontent.com/a/ACg8ocLYfFVraV0lQ1tsfs_gpi48ApokTieF-7TmGB4NG5L4=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/117689374987872021948/reviews
+publish_time: 2019-08-27T01:22:21Z

@@ -1,0 +1,58 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJD44Xkw_tO20RqQ8WCY75rvY
+national_phone_number:03 929 5543
+international_phone_number:+64 3 929 5543
+formatted_address:Level 1/176 Bridge Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.9
+google_maps_uri:https://maps.google.com/?cid=17775419167711039401
+website_uri:http://www.halllaw.co.nz/
+adr_format_address:Level 1/<span class="street-address">176 Bridge Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:11
+display_name:Hall Law
+language:en
+short_formatted_address:Level 1/176 Bridge St, Nelson
+==== Review ====
+rating: 5
+text: Jo was brilliant. Clear, friendly communication, informative and patient with me as a potential first time buyer.
+Will definitely be back.
+Thanks for your help.
+language: en
+author: L. Lewis-Smith
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWr9xklFcC88dD2c0ZkOFT6DFr3ISfa7_ZnHu0_-1vMwRvA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107813635026917397996/reviews
+publish_time: 2023-11-29T21:01:34Z
+==== Review ====
+rating: 5
+text: Jessica and the team at Hall Law have been fantastic helping us get our first home - Jessica explained everything in easy to understand terms - especially as we had no idea how it all worked and gave us great advice. We would definitely recommend using Hall Law especially for first home buyers.
+language: en
+author: Sandy Pomeroy
+photo: https://lh3.googleusercontent.com/a/ACg8ocKvE-hiOxfbF-IcwSF5rF-Qr0-E6vqhlBTVqfnOnfJ-=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114175745015009898391/reviews
+publish_time: 2023-08-28T05:47:24Z
+==== Review ====
+rating: 5
+text: Vic and the team are awesome.  We just completed a house purchase with them that produced a few surprises and things went right down to the wire.  The Hall Law team's responsiveness and common sense saw us through.  Highly recommended!
+language: en
+author: Colin Bass
+photo: https://lh3.googleusercontent.com/a-/ALV-UjV9diIbBevpMilR_HA8AI8qIq53HwVomX4nabBrmMqHplA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109742306553826744357/reviews
+publish_time: 2020-08-13T21:35:00Z
+==== Review ====
+rating: 5
+text: Both Amy and Jessica from Hall Law assisted us in purchasing our first home. They made sure that we understand every document we sign and every step of the process.
+
+They're not only very professional but also genuine people which makes all the difference. Highly recommended team.
+language: en
+author: Mariel Sollano
+photo: https://lh3.googleusercontent.com/a/ACg8ocKHi1U2txdnjA4sx1ymDHIpMOOUxi4p9DiOFAlpGRvH=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/104476212629930508363/reviews
+publish_time: 2021-07-01T01:39:55Z
+==== Review ====
+rating: 5
+text: Hall Law was recommended by our accountant to put together lease and sales agreements.  With a very short time frame to complete the work Hall Law delivered helping us meet a very tight deadline A very efficient team they kept us up to speed and were in constant communication  offering sound advice and plenty of options. A team that work to achieve great results for their clients .Highly recommended.
+language: en
+author: Andrea Cederman
+photo: https://lh3.googleusercontent.com/a/ACg8ocJiRhA3HMzi3G8rKUcOePiArW1GxLQy4CVnFW9FOm3o=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103456031190339743895/reviews
+publish_time: 2017-12-26T17:53:06Z

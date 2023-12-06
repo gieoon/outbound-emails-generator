@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ1_ZjNA7tO20RGVBPBOm1sJg
+national_phone_number:03 539 0210
+international_phone_number:+64 3 539 0210
+formatted_address:Montgomery House, Level 2/190 Trafalgar Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=11002493902070435865
+website_uri:https://www.hflaw.co.nz/
+adr_format_address:Montgomery House, Level 2/<span class="street-address">190 Trafalgar Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:9
+display_name:Hamish.Fletcher Lawyers | Nelson & Richmond
+language:en
+short_formatted_address:Montgomery House, Level 2/190 Trafalgar St, Nelson
+==== Review ====
+rating: 4
+text: Great law firm  top notch advice.
+language: en
+author: Atlas Admin
+photo: https://lh3.googleusercontent.com/a/ACg8ocJ7IQlq0TgNZBXH0FeUkVR-hrT3Z9uHULv_B-8Be5nF=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/111587316714705741377/reviews
+publish_time: 2021-09-09T12:00:07Z
+==== Review ====
+rating: 5
+text: Efficient and friendly.
+language: en
+author: Carol Garnett
+photo: https://lh3.googleusercontent.com/a/ACg8ocI7PzBi2LtlNgfq7mBdYaKPDX-XRUH8YBVd-2Si41Dh=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/113071875346115049327/reviews
+publish_time: 2023-04-05T07:45:21Z
+==== Review ====
+rating: 4
+text: 
+language: 
+author: John Warren
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU7xutrhsWOFhnGPve9CTfGRkhTCE9Cqs-WpiqLOh9lzVU=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/113909742227793102189/reviews
+publish_time: 2017-07-07T02:46:26Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: kunal juneja
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXCmE-RDOMSFjJtIY7D6OvKoLJLAJq5n-Y_uKj-5qleuXY=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112386246436667729528/reviews
+publish_time: 2016-04-19T02:57:02Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Ted Piercy
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXRtXU0cHfye0PacJwXoGX9BaUZSm0TbVDrBLTdgSoPRXI=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/102032499350513668838/reviews
+publish_time: 2020-12-16T04:09:12Z

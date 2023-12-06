@@ -1,0 +1,30 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJAXwozQ7tO20RuK5SqajCqfc
+national_phone_number:03 539 1411
+international_phone_number:+64 3 539 1411
+formatted_address:530 Main Road Stoke, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=17846009028083363512
+website_uri:http://nzhl.co.nz/find-us/nelson/?utm_source=google&utm_medium=organic&utm_campaign=gmb_nelson
+adr_format_address:<span class="street-address">530 Main Road Stoke</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:2
+display_name:NZHL (NZ Home Loans) - Nelson
+language:en
+short_formatted_address:530 Main Rd Stoke, Stoke, Nelson
+==== Review ====
+rating: 5
+text: Really helpful and patient for our first home loan experience. Ended up getting home and contents insurance, plus car insurance through them too - rates were competitive and the team were very responsive.
+language: en
+author: Malcolm Crum
+photo: https://lh3.googleusercontent.com/a-/ALV-UjULSPBHwUGF64wJiy9nwdJjYZVe92FLwjRlKnZW2EE9LWTk=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/113562296175619418912/reviews
+publish_time: 2020-06-22T04:06:42Z
+==== Review ====
+rating: 5
+text: Friendly helpful Staff
+language: en
+author: Aaron Quarterman
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWS7BS4fkIxG-gni_l_t2yNhQe7Xnr7BS3x9Qa55hJA5Zw=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/103527286377340844296/reviews
+publish_time: 2018-07-28T03:31:30Z

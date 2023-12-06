@@ -1,0 +1,65 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJeeAjeg7tO20RMODsBc_xmS4
+national_phone_number:03 548 7129
+international_phone_number:+64 3 548 7129
+formatted_address:43 Halifax Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:3.8
+google_maps_uri:https://maps.google.com/?cid=3357980868641349680
+website_uri:http://glasgow-harley.co.nz/
+adr_format_address:<span class="street-address">43 Halifax Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:21
+display_name:Glasgow Harley
+language:en
+short_formatted_address:43 Halifax St, Nelson
+==== Review ====
+rating: 5
+text: All my legal buses came at once – my separation with my wife of 20+ years, transferring ownership of the family home, buying my new home, getting my will sorted, contracting out with my new partner. It was a hectic time for me - and Gerhard, and also his team, couldn’t have been more supportive and just bloody effective.
+I don’t do law very often, but Gerhard took the time to make sure I understood the process and when progress was being made. He also helped me make some good decisions that are panning out in the long run.
+I was also pleasantly surprised at the reasonableness of the bill(s).
+Great work and thank you.
+language: en
+author: Allan Innes-Walker
+photo: https://lh3.googleusercontent.com/a/ACg8ocJOZj-AHoaTAZzyDU-bp4H6weG9VkVs0n89JB_5qKan=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114112230550344991403/reviews
+publish_time: 2023-09-26T19:45:49Z
+==== Review ====
+rating: 1
+text: Had dealings with this law firm - they are terrible !
+
+Used one of their lawyers , communication and representation was well below par.
+
+When I spoke to one of the Partners to help me they were abysmal.
+
+Never use this law firm they have serious culture issues from the top through to the bottom.
+
+A number of my friends have had similar very bad experiences with them.
+language: en
+author: Adam O’Loughlin
+photo: https://lh3.googleusercontent.com/a/ACg8ocJmti06zLdI69d3dEXWb6f7CNKg1EEGO3ghXAVgqhLo=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114311979298107217968/reviews
+publish_time: 2023-11-11T02:29:42Z
+==== Review ====
+rating: 5
+text: Heather McKinnon and the team at Glasgow Harley are incredible. I feel exceptionally lucky to have had her as my legal representation and totally trust her advice and abilities. If you need someone to support you through Family Court, she should be your top pick.
+language: en
+author: Hopeful Strength
+photo: https://lh3.googleusercontent.com/a/ACg8ocL3aNVvDWHASX8ItJAI7ccC0VgmR14UULd46TL_qKRJ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115153506904119671265/reviews
+publish_time: 2022-09-22T08:10:22Z
+==== Review ====
+rating: 1
+text: Stay away from these people. Quick to accept legal aid cases but Lawyers never communicate with their clients (many weeks on end) or willing to actualy do any work. In my opinion they should be investigated. I personaly know 3 different clients with similar experiences from these lawyers. Go anywhere else.. you have been warned.
+language: en
+author: Private
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUNoT2xTCIsr01rNnk9tyPLLyW5s9wD4eTZ-_Couz7kNYo=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/100737386589251073390/reviews
+publish_time: 2022-07-04T06:35:12Z
+==== Review ====
+rating: 5
+text: Glasgow Harley have been my Solicitors for twenty-two years during which time I have had cause to use their services on at least a dozen occasions.  I can not recommend them highly enough,  having received nothing but the very best of care and attention.  Also,  I have found their fees to be both fair and reasonable.
+language: en
+author: shirley leah
+photo: https://lh3.googleusercontent.com/a/ACg8ocKBLEbsqzj5tMf0078yRydfvhK-TDdNUATaMHXLfrwk=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113870658633751454935/reviews
+publish_time: 2019-01-30T04:14:45Z

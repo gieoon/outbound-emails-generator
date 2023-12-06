@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJWxKcMAntO20RdDWwU-bUJ8Y
+national_phone_number:03 546 6223
+international_phone_number:+64 3 546 6223
+formatted_address:197 Bridge Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:3.8
+google_maps_uri:https://maps.google.com/?cid=14278615229313070452
+website_uri:https://duncancotterill.com/?utm_source=Google&utm_medium=My%20Business%20Listing&utm_campaign=Nelson%20Office&utm_content=Nelson
+adr_format_address:<span class="street-address">197 Bridge Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:5
+display_name:Duncan Cotterill - Nelson
+language:en
+short_formatted_address:197 Bridge St, Nelson
+==== Review ====
+rating: 1
+text: Don't ask for immigration, no experience and no knowledge, useless...
+language: en
+author: Daniel Ma
+photo: https://lh3.googleusercontent.com/a/ACg8ocJdxcUeFp-n9XL-n3jiAZ3nmg2m8JrLtLy1ikEIauvE=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114110992162380063480/reviews
+publish_time: 2018-01-17T23:03:12Z
+==== Review ====
+rating: 4
+text: 
+language: 
+author: Jeanette VanderBurg
+photo: https://lh3.googleusercontent.com/a/ACg8ocJYiUYj57gKVO7Qg3gJ2hLQFHRcRlHaIlYuTYEvZTMU=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115530269231065791228/reviews
+publish_time: 2023-06-01T00:36:10Z
+==== Review ====
+rating: 4
+text: 
+language: 
+author: Sandro Costa
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX4BbzEZYx3J9OXAguIjhxOalc3Z8dVtAzMmIuN2KNUJKRw=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/117386476076930269696/reviews
+publish_time: 2019-02-16T06:03:45Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Hess Williams
+photo: https://lh3.googleusercontent.com/a/ACg8ocIEYFOnLf6BVWP7v0whlxh-NwqH_EYkg1RYGovD7SMx=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100426924750106020030/reviews
+publish_time: 2021-06-03T02:01:01Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Cathy O'Carroll
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXYQG0hHgC5dJLQ4fTESJHHvl1ADcQLjXPpKV7uayGtvuTQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108888667042482660180/reviews
+publish_time: 2023-09-17T09:38:00Z

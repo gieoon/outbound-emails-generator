@@ -1,38 +1,12 @@
-url:https://www.google.com/maps/place/?q=place_id:ChIJO2zr3tY5DW0RgippUfEhkwA
-national_phone_number:09 631 7748
-international_phone_number:+64 9 631 7748
-formatted_address:55 Shortland Street, Auckland CBD, Auckland 1010, New Zealand
+url:https://www.google.com/maps/place/?q=place_id:ChIJsXUrCg_tO20RhLsZDOUHPOI
+national_phone_number:03 548 8590
+international_phone_number:+64 3 548 8590
+formatted_address:51 Halifax Street, Nelson 7010, New Zealand
 utc_offset_minutes:780
-rating:3.7
-google_maps_uri:https://maps.google.com/?cid=41414141913148034
-website_uri:https://www.lifetime.co.nz/contact-us/auckland/
-adr_format_address:<span class="street-address">55 Shortland Street</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+google_maps_uri:https://maps.google.com/?cid=16301913431506271108
+website_uri:https://www.lifetime.co.nz/contact-us/nelson/
+adr_format_address:<span class="street-address">51 Halifax Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
 business_status:OPERATIONAL
-user_rating_count:3
 display_name:Lifetime
 language:en
-short_formatted_address:55 Shortland St, Auckland CBD, Auckland
-==== Review ====
-rating: 1
-text: Dreadful insurance broker - will never use again
-language: en
-author: Jonathan Peters
-photo: https://lh3.googleusercontent.com/a/ACg8ocJLCQcvpmPSPVoU1nSOhrP67rN-Umwwm9sgKYQidiCr=s128-c0x00000000-cc-rp-mo
-uri: https://www.google.com/maps/contrib/107733214497243218766/reviews
-publish_time: 2023-09-19T00:46:01Z
-==== Review ====
-rating: 5
-text: I was really happy with my meeting with Chanè. She really knows the financial market & investment. Highly recommended.
-language: en
-author: Craig Harrison
-photo: https://lh3.googleusercontent.com/a/ACg8ocI0qDY9niN6ysxqDVzv9oF0dfGcuxk4eehcUogStOEL=s128-c0x00000000-cc-rp-mo
-uri: https://www.google.com/maps/contrib/113177265302441261016/reviews
-publish_time: 2022-08-23T08:56:28Z
-==== Review ====
-rating: 5
-text: Quick response when asked questions,very professional ,good service given,would recommend using them
-language: en
-author: Aroha Hadfield
-photo: https://lh3.googleusercontent.com/a/ACg8ocLWlODdGnArpaPmTEc1WuFUGd5gjTtg18hddJwQ3i7Y=s128-c0x00000000-cc-rp-mo
-uri: https://www.google.com/maps/contrib/105055541720165547749/reviews
-publish_time: 2022-06-19T20:28:35Z
+short_formatted_address:51 Halifax St, Nelson

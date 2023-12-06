@@ -1,0 +1,63 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ0RxJeQ_tO20RfHTF51eg2XE
+national_phone_number:03 548 8349
+international_phone_number:+64 3 548 8349
+formatted_address:78 Selwyn Place, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4
+google_maps_uri:https://maps.google.com/?cid=8203764495643145340
+website_uri:http://www.pittandmoore.co.nz/
+adr_format_address:<span class="street-address">78 Selwyn Place</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:33
+display_name:Pitt & Moore Lawyers | Nelson
+language:en
+short_formatted_address:78 Selwyn Pl, Nelson
+==== Review ====
+rating: 1
+text: Ridiculously expensive services.
+One of the associates (Elly Fleming) charged me $100 for a single email with ‘Thank you’ written on it. They charge you more than $100 per email and a minute call.
+Your visa application total services charges will go beyond $10,000.
+Very expensive even for small jobs.
+Would never recommend to anyone.
+language: en
+author: Vinay Toscano
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWE_tBp7xcCv5O4iEEMCtOEpEMNEwXDKeAp0BZ5Yubg0f8=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105798942446050335089/reviews
+publish_time: 2023-05-26T01:26:25Z
+==== Review ====
+rating: 5
+text: Top legal firm for immigration. Professional and approachable.
+language: en
+author: Michel Molliet
+photo: https://lh3.googleusercontent.com/a-/ALV-UjV9Em9kT20sqNFQcLG6qoETHjSh9xk4z0orEry2xuETsZFM=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/101909549531427129479/reviews
+publish_time: 2023-10-27T09:16:55Z
+==== Review ====
+rating: 1
+text: Shop around first.
+The partner I used lacked basic skill but can bill for things not actually asked for. Well skilled in itemising things in the invoice to make it look busy though so probably deserve 5 stars for that.
+language: en
+author: Christchurch Fixit
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX4UtxxJmiBoAJhJssP7SKBnlfY-ARi67GUqsac0hXqiA8=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112011972389580753427/reviews
+publish_time: 2022-06-23T02:34:31Z
+==== Review ====
+rating: 5
+text: Mike and Jing Jing help us with our residency visa application. We were very pleased with their friendly and professional manner and responsiveness.
+
+Working with them has helped reduce the pains of the application process and we could not be happier.
+
+Would highly recommend to anyone looking to apply for visa's.
+language: en
+author: Jonathan Gardiner
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWVnnQijQBwdUFsKiL3uDtOI8yfAUA_nsR_cjku5adOqg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116781892892897595026/reviews
+publish_time: 2021-07-21T06:00:33Z
+==== Review ====
+rating: 1
+text: I would seriously recommend asking for a quote in writing before engaging this firm. I found the basic knowledge of company law lacking from the Partner I used - which led to unnecessary additional charges for me. The double handling between junior and senior partners seems to be a common practice way of overcharging. I was stunned to find I was charged for an indemnity created to protect the lawyers from me making a claim against them? Make sure you request an itemised invoice - i received a bill before any actual work was presented in the form on one invoice line for a couple of thousand dollars - tell me what other supplier of services would think that was professional?
+language: en
+author: Suzie Thorp
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX816Y95jjbrb5PCXEcApesypoLeckz2CgKfUvhFSd7BvuR=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114945674484085592254/reviews
+publish_time: 2021-01-27T18:20:31Z

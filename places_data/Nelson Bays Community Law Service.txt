@@ -1,0 +1,55 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJJ1AhCg_tO20RLWs8CMebQys
+national_phone_number:03 548 1288
+international_phone_number:+64 3 548 1288
+formatted_address:63 Collingwood Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:3.6
+google_maps_uri:https://maps.google.com/?cid=3117506646209489709
+website_uri:https://communitylaw.org.nz/centre/nelson-bays/
+adr_format_address:<span class="street-address">63 Collingwood Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:34
+display_name:Nelson Bays Community Law Service
+language:en
+short_formatted_address:63 Collingwood St, Nelson
+==== Review ====
+rating: 1
+text: Unless unfortunately even though they could have helped they didn't want to. Unless you have a 5 min problem that they get to be the hero they just make up reasons why they can't help.  Could not even give me an alternative. Said they would call back but didn't.  Mostly I just wanted legal papers explained to me and they didn't even read the papers. Spent am hour of just reciting all the laws, saying my case was too complicated and they didn't have time when they could have been reading and helping me to understand.  The receptionist on the phone was rude asked inappropriate questions and was very negative.
+language: en
+author: fern love
+photo: https://lh3.googleusercontent.com/a/ACg8ocL7ilMS36Mo77kXQCPQK4BuCaB6A_Wx5yywisL68b7c=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/116008390295598643106/reviews
+publish_time: 2023-10-21T17:47:57Z
+==== Review ====
+rating: 5
+text: Incredibly helpful and empathetic legal advice. Really go the extra mile.
+language: en
+author: Kate Jensen
+photo: https://lh3.googleusercontent.com/a-/ALV-UjV-lT5bR6YvIxBQX71vUiJMhsBD0Kyw-PyWI0vSlM-58FYy=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/103487542074298143806/reviews
+publish_time: 2023-11-21T09:30:01Z
+==== Review ====
+rating: 3
+text: They couldn't really help my situation but they pointed me in the right direction
+language: en
+author: chris galliers
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXnxbypzmv0lO3aEzaZbDR9dfDvSPIvJZdHKptA189GAA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106624668189942390137/reviews
+publish_time: 2023-07-08T06:42:37Z
+==== Review ====
+rating: 1
+text: Very disappointed having to say this but sought some help from one of the Communuty Lawyers at the Nelson Community Law, meeting held at their office on Hardy street, the elderly lady sounded very confident and was willing to help after the first meeting but on the day when she was supposed to act as a support person, she started to favour the other party and happily listened to them humiliating the victim further.
+Very relaxed to have understood her policy on the first day that we chose to discontinue with this service.
+language: en
+author: Shauhrat Gill
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWztKmI5-_er_Alc0VJEzPimBCRfoKk0s3xWg6FIhznXs4=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/111325963114648762123/reviews
+publish_time: 2021-01-19T19:57:07Z
+==== Review ====
+rating: 5
+text: Very informative, warm welcome, not daunting like other firms
+language: en
+author: roger vagabond
+photo: https://lh3.googleusercontent.com/a/ACg8ocItCXnXTkCVgePeTC1ZNdx6gZpo2NdTuYPu1UCTnP_g=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/111173851330802449440/reviews
+publish_time: 2022-12-12T22:28:40Z

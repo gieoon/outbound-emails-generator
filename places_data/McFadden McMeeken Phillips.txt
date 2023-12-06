@@ -1,0 +1,59 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJk5tgMQntO20RpVhTfumX5TY
+national_phone_number:03 548 2154
+international_phone_number:+64 3 548 2154
+formatted_address:2/241 Hardy Street, Nelson city, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=3955734876817414309
+website_uri:http://www.mmp.co.nz/
+adr_format_address:2/<span class="street-address">241 Hardy Street</span>, <span class="extended-address">Nelson city</span>, <span class="locality">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:6
+display_name:McFadden McMeeken Phillips
+language:en
+short_formatted_address:2/241 Hardy St, Nelson city, Nelson
+==== Review ====
+rating: 1
+text: This Company and its directors are corrupt. They also conduct illegal activity. There is evidence of payouts to protect their interests.
+The Directors do not operate in accordance with the law society's
+best practice guidelines.
+Do not use this unlawful corrupt firm.
+Nigel Mcfadden is dishonest and acts in a conflict of interest with multiple clients. This corrupt man has been before the disciplinary board  many times. Do not use him he cannot be trusted.
+Alex Ruth not a straight bone in the man.
+language: en
+author: Leon Wood
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXRSqICaHkYuLcAh_6vsqhz5riUZGTmtU2aZ7LEzXVjcA6q=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114257316693954930657/reviews
+publish_time: 2018-07-04T02:13:30Z
+==== Review ====
+rating: 5
+text: wealth of knowledge navigating corporate law a ease. highly recommend
+language: en
+author: Peter James Win
+photo: https://lh3.googleusercontent.com/a/ACg8ocLzreCFwsRnnnRQz4uuWs_98tV8Jssv_f8Mv3yWwKuT=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114348594606534805103/reviews
+publish_time: 2022-01-20T19:42:54Z
+==== Review ====
+rating: 5
+text: Previous review by Leon Wood is completely inaccurate and untrue, written by someone with an axe to grind
+language: en
+author: Alex Reith
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWmyBPdxwmbfj6lVKVDC5et7PbYG7DEgmquHeISJlR9KuNS=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100214841684197621509/reviews
+publish_time: 2017-10-26T22:46:07Z
+==== Review ====
+rating: 5
+text: Good people working for you.
+language: en
+author: Philip Jordan
+photo: https://lh3.googleusercontent.com/a/ACg8ocJcou7ABTnFjwdaM5W9aYwaCYkI6z9lQeJA6l-Y8HVX=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113325871936725394523/reviews
+publish_time: 2022-02-07T23:09:57Z
+==== Review ====
+rating: 5
+text: Very helpful Lawyers
+language: en
+author: Charlton Brownrigg
+photo: https://lh3.googleusercontent.com/a/ACg8ocKMjAQzw7z2blnZzHJA-_y8Rm0GJPF7N_6zrIRU-CBu=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/105525493874330946484/reviews
+publish_time: 2017-12-28T01:03:44Z

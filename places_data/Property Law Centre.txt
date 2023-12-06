@@ -1,0 +1,56 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJoQCm3Q_tO20RfY6Nf6lSONM
+national_phone_number:03 546 9507
+international_phone_number:+64 3 546 9507
+formatted_address:167 Hardy Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.4
+google_maps_uri:https://maps.google.com/?cid=15220005828641525373
+website_uri:http://www.propertylawcentre.co.nz/
+adr_format_address:<span class="street-address">167 Hardy Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:18
+display_name:Property Law Centre
+language:en
+short_formatted_address:167 Hardy St, Nelson
+==== Review ====
+rating: 5
+text: Michael and Jess has made my first home purchase journey nice and easy. Friendly and professional service. Highly recommended!
+language: en
+author: Wendy Shih
+photo: https://lh3.googleusercontent.com/a/ACg8ocJNIhPOwU5l9bgbgMFEXgZEjtvayfJSTLSgESbbgYG9=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100370561204164407823/reviews
+publish_time: 2023-06-15T04:57:32Z
+==== Review ====
+rating: 5
+text: Really professional work. More than happy to pay the amount we agreed for Michael's services. Michael is very experienced and friendly and was happy to walk me through the various mundane forms we needed to fill out. His actions were very timely and thorough. Use property Law Centre first.
+language: en
+author: Ryan O'Connor
+photo: https://lh3.googleusercontent.com/a/ACg8ocJicdg-LMWlelNuUeV0CZa9KDoVMYs8vbUlW7P_u_Hw=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100212715540493215618/reviews
+publish_time: 2020-12-07T04:29:22Z
+==== Review ====
+rating: 5
+text: Hi.
+We've used Michael Ducray about four times and have always found him friendly and great to deal with. I like the way he gets straight down to business, is efficient and really clear about the process and what is required.
+I recommend him to friends .
+language: en
+author: Mark Andrews
+photo: https://lh3.googleusercontent.com/a/ACg8ocITVCqDAFZAIxyTDx0zY_147O-1UhuuzqNU3SOcq2cI=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114358818115171754205/reviews
+publish_time: 2018-08-03T22:11:24Z
+==== Review ====
+rating: 5
+text: Michael and Jess completed another sale and purchase for me. I can highly recommend the property law centre, great communication and really helpful with a difficult sale process.
+language: en
+author: Andrew Bunting
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVqF0TexP9s1_zXo_Vdgtlj8SLcskf1RxLX8TUk5I-uVQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100563695944943745885/reviews
+publish_time: 2022-11-18T01:13:12Z
+==== Review ====
+rating: 1
+text: Just rang up to get ask for a quote on buying some land off a neighbour,  cut me off whilst I was talking, said he couldn't give a fixed fee.  Wasn't even prepared to listen to what I had to say.  Really rude and arrogant in his whole manner.  Do not bother ringing.  There is a reason they have low reviews.
+language: en
+author: Karen brewer
+photo: https://lh3.googleusercontent.com/a/ACg8ocLxdg4Mf2yHVq5IelXRUj0W_-bM5SA9CiKh11rsix9w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109007613489103413535/reviews
+publish_time: 2018-05-08T02:50:35Z

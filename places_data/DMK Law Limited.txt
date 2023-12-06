@@ -1,0 +1,46 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJN9CWM4DtO20RYjoMz2Gmv44
+national_phone_number:03 744 3536
+international_phone_number:+64 3 744 3536
+formatted_address:12 Harley Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.8
+google_maps_uri:https://maps.google.com/?cid=10286123012953225826
+website_uri:http://www.dmklaw.co.nz/
+adr_format_address:<span class="street-address">12 Harley Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:4
+display_name:DMK Law Limited
+language:en
+short_formatted_address:12 Harley St, Nelson
+==== Review ====
+rating: 5
+text: Great team with amazing knowledge really put you at ease.
+language: en
+author: TQ Johnson Contracting
+photo: https://lh3.googleusercontent.com/a/ACg8ocJgucLbbdGZZtAnSlO3kIrf9JHe2XfnVAQzbphw9mvG=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109639012525846403447/reviews
+publish_time: 2022-06-08T21:30:01Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Rebecca Hannah
+photo: https://lh3.googleusercontent.com/a/ACg8ocKCSV7O4f3Kmdd3JtIB9tfYVDLMhmTHJsqNk8gUrXdM=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116063424369144165321/reviews
+publish_time: 2020-03-12T03:20:56Z
+==== Review ====
+rating: 4
+text: 
+language: 
+author: leslie whitaker
+photo: https://lh3.googleusercontent.com/a/ACg8ocK7ydAFGA_lbgTg3t_PnCKkRERxPYt2mlMqU8-DDewb=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109458719429653166728/reviews
+publish_time: 2020-07-19T06:43:51Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Nate's Escape
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU5w2I0XUf4R6bgWx5bKdcUqM_OOP91wBnfCoKRwkfUmoQV=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/101116651627510132473/reviews
+publish_time: 2019-12-10T13:50:51Z

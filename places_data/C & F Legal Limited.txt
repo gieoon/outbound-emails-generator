@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ0cH_lQ3tO20R_PwuVSQdBHY
+national_phone_number:03 545 8080
+international_phone_number:+64 3 545 8080
+formatted_address:211 Bridge Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.8
+google_maps_uri:https://maps.google.com/?cid=8503954038267510012
+website_uri:https://www.cflegal.co.nz/
+adr_format_address:<span class="street-address">211 Bridge Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:18
+display_name:C & F Legal Limited
+language:en
+short_formatted_address:211 Bridge St, Nelson
+==== Review ====
+rating: 5
+text: Knowledgeable, experienced experts in law who really go the extra mile for their clients. They have assisted many of my clients and I can’t recommend more highly!
+language: en
+author: Caroline Harvey
+photo: https://lh3.googleusercontent.com/a/ACg8ocIxvVoc2SEmdyrUIFGMPNid_XG58RqDNY5hvPeaVWsG=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113346144870854125280/reviews
+publish_time: 2023-03-21T21:30:33Z
+==== Review ====
+rating: 5
+text: I wish to acknowledge the fantastic and professional support C & F Legal gave as we sold our investment house. They were prompt in all the did. Their advice and support helped this complex process proceed in a timely way. Special mention of Robyn Dewson and her professionalism. I have no hesitation in recommending this firm. Tino pai.
+language: en
+author: Murray Edlin
+photo: https://lh3.googleusercontent.com/a/ACg8ocJrsJ8wMRkAgCOnWyzi6w0crDjLhKCDorpTN1bDXati=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/104083218675175137619/reviews
+publish_time: 2022-04-06T02:09:27Z
+==== Review ====
+rating: 5
+text: Offered tea or coffee on arrival. Very nice staff and very professional.
+language: en
+author: Amy Lilley
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUk4_cp2-hyTDAFJlIvyMg5lftPpgALl37fWwqrCVr4u-o=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/108878455273820106525/reviews
+publish_time: 2023-03-27T03:46:14Z
+==== Review ====
+rating: 5
+text: The secretary was great she answered all my questions and put me in the right direction.
+language: en
+author: Heidi Repp
+photo: https://lh3.googleusercontent.com/a/ACg8ocLpb8DrZkPfIsRpJf9eb2AZB-Cg9m7UFBP7Ht1StUDl=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109923413086242078692/reviews
+publish_time: 2022-10-27T00:21:45Z
+==== Review ====
+rating: 5
+text: Great group of professionals
+language: en
+author: Wayne Middlemiss
+photo: https://lh3.googleusercontent.com/a/ACg8ocLbPAys3fb9hXC85ZMn5cd8YzdyAgkbjJKw1CiGvcuQ=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/118076028118620989428/reviews
+publish_time: 2022-09-12T04:15:51Z

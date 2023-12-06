@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJgVUMBg_tO20Ro6q2sqjVOps
+national_phone_number:03 546 8670
+international_phone_number:+64 3 546 8670
+formatted_address:92 Collingwood Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.9
+google_maps_uri:https://maps.google.com/?cid=11185487545057585827
+website_uri:http://www.stallardlaw.co.nz/about-us.htm
+adr_format_address:<span class="street-address">92 Collingwood Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:11
+display_name:Stallard Law Limited
+language:en
+short_formatted_address:92 Collingwood St, Nelson
+==== Review ====
+rating: 5
+text: Great team down at Stallard Law. Highly recommend.
+language: en
+author: Chris Kolless
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU-hLJqMUl_pYT2BvImpf7Lzd3MayS_MaARdtv2aLg8hAU=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109638431610431394959/reviews
+publish_time: 2023-11-26T22:53:05Z
+==== Review ====
+rating: 5
+text: Made a challenging purchase stress free. Belinda Clarke is the best.
+language: en
+author: Lisa Wakelin
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUcvX62NlZNsxutoxYP2B6NSfKTzoSqIyXnXPkRE1nGgA=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/116057436565593289636/reviews
+publish_time: 2022-01-06T21:19:55Z
+==== Review ====
+rating: 5
+text: Wonderful team, reasonable fees.
+language: en
+author: Sue C
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXmiYjYJH_-D_LkC2DLl0zmtq31kxV4KFLHSZYWyECQ5w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112707398242661765098/reviews
+publish_time: 2021-07-23T01:21:01Z
+==== Review ====
+rating: 5
+text: Great Lawyer good advice
+language: en
+author: Frances Reardon
+photo: https://lh3.googleusercontent.com/a/ACg8ocK9Nz9tqagq3t6B0p6elHP4G9f6lVM6Q6_sR7Q-z6w=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/114558130276678893287/reviews
+publish_time: 2020-02-25T16:55:29Z
+==== Review ====
+rating: 5
+text: Brilliant
+language: en
+author: Janine Tukaki
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXVlkTszrr5W30tSIWHDGx4STrfR6qyM754WW8ue_gztCQ=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/103512120822733735955/reviews
+publish_time: 2017-09-29T05:45:37Z

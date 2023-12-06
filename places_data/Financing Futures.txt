@@ -1,0 +1,71 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJQ0_aYVuTO20RYXXX2M_Ikhc
+national_phone_number:03 547 9333
+international_phone_number:+64 3 547 9333
+formatted_address:238 Songer Street, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=1698640804493882721
+website_uri:http://www.financingfutures.co.nz/
+adr_format_address:<span class="street-address">238 Songer Street</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:37
+display_name:Financing Futures
+language:en
+short_formatted_address:238 Songer St, Stoke, Nelson
+==== Review ====
+rating: 5
+text: Connor and his team were great to work with. They were able to offer opportunities that others clearly didn't see available. Thanks to them we have purchased an amazing house and couldn't be happier. Highly recommend.
+language: en
+author: Ben Henry (Line Of Sight Media Ltd)
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU-NpuYVclnjGkQPAnWvVH8p-JmmNfGsf1zuYb7UaXOBiV0=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/114361230533021839031/reviews
+publish_time: 2023-11-29T16:42:29Z
+==== Review ====
+rating: 5
+text: Thanks so much to the team at Financing Futures for helping us buy our home. 😊
+
+Thank you to JD who we mostly dealt with. JD is professional, knowledgeable, enthusiastic and genuinely cares whether you get approved, he made the whole process less stressful.
+
+Thanks also to Connor and Rebecca both were very positive, friendly, knowledgeable and professional.
+
+Such a great team, and we would definitely recommend their services.
+
+Thank you 😊
+Vincent & Melissa
+language: en
+author: Melissa Arnold
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUHZGE_pDOUHPEiR0u5Ap8thQyb0RuPHxCKE0wQiwzoqtU=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108191028146429103169/reviews
+publish_time: 2023-08-20T21:02:24Z
+==== Review ====
+rating: 5
+text: Hi guys we had this dream of owning our own home, so I contacted my bank.... And it felt like all hope was lost....And then I made contact with Connor and the team from Financing Futures responded, all the conversation was quick easy to the point everything was explained and the advice was spot on... Thanks guys your team is awesome
+language: en
+author: Bertus Bredenhann
+photo: https://lh3.googleusercontent.com/a/ACg8ocIPna8eYW6Gjt29IQKwPZ0IhZB6CDA5tpOnRD0WoAGC=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105315872904483301788/reviews
+publish_time: 2023-07-04T22:19:20Z
+==== Review ====
+rating: 5
+text: This is THE BEST mortgage broker I've ever had service from! Conor showed us the most professional, efficient, effective, friendly, thoughtful, smartest service ever! Without him and his team, we could not get our first home given the situation we were in! The more special thing is he is still there for us right away for any financial help we need even though it's already half year after purchasing our first home! He's all about giving great help and letting us know what's best for us based on his own experience, saving every cent for us! A great person indeed!
+language: en
+author: Luping Wang
+photo: https://lh3.googleusercontent.com/a/ACg8ocKbxXjdOOdrN6fCMEof7mcw8GLix3k55EWvq9iHfHzH=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106630822964424492602/reviews
+publish_time: 2023-02-03T03:08:07Z
+==== Review ====
+rating: 5
+text: I've been incredibly impressed with the service that Financing Futures has provided. Connor Ward has gone above and beyond to help us through the arduous process of getting a mortgage. I can't imagine how difficult and frustrating this would have been if I was dealing with the bank myself. Connor has been very communicative and prompt throughout the entire process. The amount of hoops we had to jump through was very frustrating, but Connor aided us very well in making the various decisions needed to get there in the end.
+
+Connor is very professional and knows his stuff. He is also happy to be frank and say it how it is, not beating around the bush. Even when it looked like we wouldn't be able to get the loan he told us he was very sure we would be able to, after jumping through some more hoops, and we did eventually have it approved.
+
+JD was also great to deal with, very professional, communicative and prompt also, I would highly recommend him too.
+
+I wholeheartedly and unreservedly recommend Financing Futures and Connor and JD if you're looking to get assistance with a mortgage or other finance advice/assistance.
+
+I've read all the other reviews and all of them are spot on.
+language: en
+author: James Langbein
+photo: https://lh3.googleusercontent.com/a/ACg8ocIMzTHmExa1e_O4UIUaRKo0C21STBGty21DnBAccVhj=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114373823086423247541/reviews
+publish_time: 2022-07-07T01:49:27Z

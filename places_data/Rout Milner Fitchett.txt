@@ -1,0 +1,50 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJoQCm3Q_tO20RbZF1qZcTCik
+national_phone_number:03 548 0064
+international_phone_number:+64 3 548 0064
+formatted_address:167 Hardy Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4
+google_maps_uri:https://maps.google.com/?cid=2957197647426195821
+website_uri:https://www.rmflawyers.co.nz/
+adr_format_address:<span class="street-address">167 Hardy Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:4
+display_name:Rout Milner Fitchett
+language:en
+short_formatted_address:167 Hardy St, Nelson
+==== Review ====
+rating: 5
+text: My dad works at this establishment, and he is a good lawyer...
+
+I once got in trouble for Jay walking and got fined $50,000 and he lowered that fine to $4.
+
+Great times.
+language: en
+author: Maxisthebest?
+photo: https://lh3.googleusercontent.com/a-/ALV-UjW0pxgikkbVP1qWyye2q3HxAuKldnliG81nirBCARP4XZI=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116087088784510243802/reviews
+publish_time: 2022-08-01T05:05:29Z
+==== Review ====
+rating: 5
+text: Great team. Will get you results
+language: en
+author: Danielle McNaughton
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUZ1sZ8-b9Ku3QQCQSnNi6bzxIPKR8P380E7xwFIVYXO9k=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114203644247523017546/reviews
+publish_time: 2020-03-04T02:24:09Z
+==== Review ====
+rating: 1
+text: Not impressed.
+language: en
+author: Jan Winter
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVXyYEUV1BObKOh8R6faE18fGggiSEPh5oqyl7efV-lACg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109853378187248933080/reviews
+publish_time: 2020-08-29T02:20:33Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Prasad Dsp
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWiimMpVtu-_EwV08VX2poaabNPP91OwovIUZXNXocB57w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/117617941648590153859/reviews
+publish_time: 2023-04-23T06:16:20Z

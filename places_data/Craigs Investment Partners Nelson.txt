@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJqZtdRIbtO20RkxiIVdX0LGE
+national_phone_number:03 744 0100
+international_phone_number:+64 3 744 0100
+formatted_address:9 Buxton Square, Nelson 7010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=7002240717754472595
+website_uri:https://craigsip.com/contact/nelson?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing&utm_content=nelson
+adr_format_address:<span class="street-address">9 Buxton Square</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Craigs Investment Partners Nelson
+language:en
+short_formatted_address:9 Buxton Square, Nelson

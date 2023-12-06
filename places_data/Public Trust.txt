@@ -1,0 +1,55 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ6e1BDw_tO20RQl00oqz7TDQ
+national_phone_number:0800 782 766
+international_phone_number:+64 800 782 766
+formatted_address:Morrison Square Level 1, Suite 3, Level 1/244 Hardy Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:3.7
+google_maps_uri:https://maps.google.com/?cid=3768663707076549954
+website_uri:http://www.publictrust.co.nz/
+adr_format_address:Morrison Square Level 1, Suite 3, Level 1/<span class="street-address">244 Hardy Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:6
+display_name:Public Trust
+language:en
+short_formatted_address:Morrison Square Level 1, Suite 3, Level 1/244 Hardy St, Nelson
+==== Review ====
+rating: 5
+text: I have found dealing the Public Trust in Nelson  before the death of my mother and afterwards fantastic. Very empathic and professional. I would not hesitate to recomend Kerry and Kirsty.
+language: en
+author: Cheryl Houston
+photo: https://lh3.googleusercontent.com/a/ACg8ocIsCi6FmKvdoD4H4zuTLhULGKBfXk9hQAQqBuhl83nc=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115240397699355259104/reviews
+publish_time: 2023-11-15T04:10:45Z
+==== Review ====
+rating: 5
+text: Since my father in law has past, the Public Trust has been amazing giving us full support and information every time we emailed.
+Kerry of Nelson Public Trust is amazing and we are glad she is helping us.
+language: en
+author: AnneMaree Braden
+photo: https://lh3.googleusercontent.com/a/ACg8ocKiYY3TgWNSqoHaLpUE7pDziUjc0-4RF7zPbM7SZk1x=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115637385976303134348/reviews
+publish_time: 2023-03-22T05:38:10Z
+==== Review ====
+rating: 5
+text: Both my parents have died within 5 months of each other.  Public Trust has supported us all the way thru every process.  They have helped us thru a very difficult time. Nothing was a problem and if we didn't understand they made it easier.   If you want trouble free and options for wills and end of life care please go and talk with them they are very experience and will help you thru all the legal process
+language: en
+author: Lyn Robins
+photo: https://lh3.googleusercontent.com/a/ACg8ocJbxcE0h88B2lsFJ66CW0P2DI8kUZAm7lH_0AuBkzM=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113351479468705581783/reviews
+publish_time: 2021-09-04T06:54:00Z
+==== Review ====
+rating: 1
+text: You are very much a 'number' with this company.
+language: en
+author: UY Scuti
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVXQ5BHLm44qZ47JPUmwt2RVX_ivQ70f5gSbFR-olTkdXk=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/118054073005382004560/reviews
+publish_time: 2020-06-10T06:20:27Z
+==== Review ====
+rating: 1
+text: 
+language: 
+author: André Pontes
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXTFmT2kgzRlS2Pq3DJ6pFz40Nlh-d6oiOOO-vKJAnIGIw=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/117062402201876812841/reviews
+publish_time: 2016-12-23T08:12:48Z

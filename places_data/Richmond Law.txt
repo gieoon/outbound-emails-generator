@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJJWkiMBWUO20R56-RS8ojClw
+national_phone_number:03 544 7949
+international_phone_number:+64 3 544 7949
+formatted_address:2 McGlashen Avenue, Nelson 7020, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=6632152753014681575
+website_uri:http://www.richmondlaw.co.nz/
+adr_format_address:<span class="street-address">2 McGlashen Avenue</span>, <span class="locality">Nelson</span> <span class="postal-code">7020</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:15
+display_name:Richmond Law
+language:en
+short_formatted_address:2 McGlashen Ave, Nelson
+==== Review ====
+rating: 5
+text: Can't beat them. Thanks Rachael
+language: en
+author: Alan Elvy
+photo: https://lh3.googleusercontent.com/a/ACg8ocLadGWZ7K2j3f_Qn81tAfPiVFMAqlCGuDrLDWIpCq-w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107815097275526164189/reviews
+publish_time: 2023-10-11T05:47:36Z
+==== Review ====
+rating: 4
+text: Excellent property conveyancing service.
+language: en
+author: Rupert Bunny
+photo: https://lh3.googleusercontent.com/a/ACg8ocKDgBc4ZCok42AiklKBAJWigLLQ7Ku2sg4i7UmRX__5=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/105971877773069841351/reviews
+publish_time: 2023-07-30T20:14:23Z
+==== Review ====
+rating: 5
+text: Good work done by Stephen. Thank you.
+language: en
+author: Glenys Parsons
+photo: https://lh3.googleusercontent.com/a/ACg8ocI_hjPw3EplQl5Mt_lcOFj1CgCgkFY7ejd0tSAV_KR1=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/105274896133170485922/reviews
+publish_time: 2022-07-08T19:02:02Z
+==== Review ====
+rating: 5
+text: Excellent, friendly service and always accessible at short notice in need.
+language: en
+author: Jean Gorman
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUihh7ujgKjc_LgT498-cyixWBem0Mct5WZ05T2x1tUJQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102455884619307494193/reviews
+publish_time: 2018-06-30T22:40:44Z
+==== Review ====
+rating: 5
+text: Our family's lawyer for almost a decade.  Friendly and efficient staff. Has taken care of wills, probate, advanced directives, EPOAs, etc
+language: en
+author: Pete Belt
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWY7JFQ635EKtigddFeBmRk7GeQNibPT7m0WC0u_-fFnDGs=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/109261949254256436028/reviews
+publish_time: 2021-01-16T01:20:10Z

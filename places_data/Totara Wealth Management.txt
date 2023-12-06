@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJow1HuBHtO20R5j3fea51BaM
+national_phone_number:03 548 9000
+international_phone_number:+64 3 548 9000
+formatted_address:15 Bridge Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=11746924595295239654
+website_uri:http://totarawealth.co.nz/
+adr_format_address:<span class="street-address">15 Bridge Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Totara Wealth Management
+language:en
+short_formatted_address:15 Bridge St, Nelson

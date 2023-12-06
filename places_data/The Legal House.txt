@@ -1,0 +1,59 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ25Mikw_tO20RMQd9v6rVu3Y
+national_phone_number:03 548 7839
+international_phone_number:+64 3 548 7839
+formatted_address:33 Trafalgar Street, The Wood, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.4
+google_maps_uri:https://maps.google.com/?cid=8555666846454187825
+website_uri:http://www.thelegalhouse.co.nz/
+adr_format_address:<span class="street-address">33 Trafalgar Street</span>, <span class="extended-address">The Wood</span>, <span class="locality">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:14
+display_name:The Legal House
+language:en
+short_formatted_address:33 Trafalgar St, The Wood, Nelson
+==== Review ====
+rating: 5
+text: Rebecca has been more than accommodating to my queries.
+For legal advice, Rebecca has definitely exceeded my expectations. Thank you to the team at Legal house for all your amazing support!
+language: en
+author: Izaac Burrough
+photo: https://lh3.googleusercontent.com/a/ACg8ocKCaxft-J_JYGtMUyLUMB0j02EmKAHW0Vezht1N6mkp=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/111697041089209691519/reviews
+publish_time: 2023-11-02T08:39:58Z
+==== Review ====
+rating: 5
+text: The Legal House is very highly recommended indeed. A personal, competent and patient service. Excellent communication and checking in. Fair prices.
+
+Wishing Rebecca and team all the best
+language: en
+author: Martin Stratton
+photo: https://lh3.googleusercontent.com/a/ACg8ocL3DKIk-OcHZMTu_7bYE59YcnuvQhEiQffRCXF2TkQ3=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105052455588302966610/reviews
+publish_time: 2023-03-21T20:57:05Z
+==== Review ====
+rating: 5
+text: Great people to deal with for your first home purchase.
+language: en
+author: Patrick Connor
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUs08wbh_DUmNABavsdx1TdEbC1h1ndgdhjWzyr9v45f04=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116570988595162569663/reviews
+publish_time: 2023-07-30T07:11:48Z
+==== Review ====
+rating: 5
+text: Been working with Josh and his team to purchase our first house.
+From start to finish they have been amazing even during a snap lockdown.
+Open and upfront pricing policies and Pauline has been wonderful to deal with in particular as she has had to answer our myriad of questions
+language: en
+author: Glenn OCallahan
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVnfDfLMZ1pm_z8_c5Ax6_FHJcD0yykFHB2pGSwdvCoLhg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115528320207119609751/reviews
+publish_time: 2021-08-30T02:31:35Z
+==== Review ====
+rating: 5
+text: Thanks so much to Josh, Pauline and the Legal House for helping us with the sale of our apartment - they are so great to deal with and gave us some great advice re selling privately - could not have done it without their knowledge.
+language: en
+author: Justine Atkinson
+photo: https://lh3.googleusercontent.com/a/ACg8ocI4js_T1jJGTukV8uN93bk-QDR6dJkSB23E06NopS5C=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112830469406218859638/reviews
+publish_time: 2022-10-20T21:12:03Z

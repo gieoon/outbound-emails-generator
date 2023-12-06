@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJcdID8Q_tO20RLx7VRQL1KXc
+national_phone_number:03 546 8750
+international_phone_number:+64 3 546 8750
+formatted_address:300 Trafalgar Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=8586663554668895791
+website_uri:http://www.smytheslaw.co.nz/
+adr_format_address:<span class="street-address">300 Trafalgar Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Smythes Lawyers - Nelson
+language:en
+short_formatted_address:300 Trafalgar St, Nelson

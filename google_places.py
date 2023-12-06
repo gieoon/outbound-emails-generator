@@ -30,8 +30,14 @@ def searchNearby(query):
     response_json = json.loads(response.text)
     # print(response_json['places'][0])
 
+    print('Number of places: ', len(response_json['places']))
+    n = 0
     for place in response_json['places']:
-        place_obj = process_place(place)
+        n += 1
+
+        # TODO remove this
+        if n < 2:
+            place_obj = process_place(place)
 
 def process_place (place):
     out = {}
@@ -81,7 +87,7 @@ def process_place (place):
             for review in out['reviews']:
                 f.write('==== Review ====\n')
                 for review_key in review:
-                    print("review_key", review_key, review)
+                    # print("review_key", review_key, review)
                 
                     f.write(f"{review_key}: {review[review_key]}\n")
                 
@@ -109,5 +115,5 @@ def process_place (place):
 # searchNearby('Website developers in Nelson, New Zealand')
 # query = "Webbi Digital Studio, Richmond Nelson"
 # query = "Rotary Clubs in Auckland"
-query = "Financial Advisors in Auckland"
+query = "Construction companies in Christchurch"
 searchNearby(query)

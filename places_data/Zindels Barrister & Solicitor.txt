@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJCVF3iQ7tO20RPCV12WhDY0M
+national_phone_number:03 548 0039
+international_phone_number:+64 3 548 0039
+formatted_address:21 New Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:3.7
+google_maps_uri:https://maps.google.com/?cid=4855798940839519548
+website_uri:https://www.zindels.co.nz/
+adr_format_address:<span class="street-address">21 New Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:13
+display_name:Zindels Barrister & Solicitor
+language:en
+short_formatted_address:21 New St, Nelson
+==== Review ====
+rating: 1
+text: Couldn’t get in touch with them, left multiple voice messages and emails but never heard back from them after a month of attempts. Maybe just don’t want new clients. Very unprofessional
+language: en
+author: Alberto Sala
+photo: https://lh3.googleusercontent.com/a/ACg8ocL6n7biQyqThvWbKuN5UDdt6k-dRsPdoPgZnhK4Z-SN=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106355232678534883132/reviews
+publish_time: 2022-03-23T19:07:41Z
+==== Review ====
+rating: 5
+text: Steve is excellent at his job!!
+language: en
+author: Jim McDougall
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX_AOYbbK_OXI28frmul8CdABXlAUXxwr51Gxa9bggLGY8=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/114166509796869358657/reviews
+publish_time: 2023-07-28T07:14:24Z
+==== Review ====
+rating: 1
+text: Court appointed legal-aid lawyer was of no aid at all. Couldn't get hold of him despite multiple email, texts and voicemails left daily. Would no recommend at all
+language: en
+author: Shannon Clare
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU4r6Ptpk28lhIbCDIn6ntLgj4JP-ce4xWcrx-P4jAIxZHA=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/103655129407984423032/reviews
+publish_time: 2020-06-14T20:05:38Z
+==== Review ====
+rating: 1
+text: Receptionist not helpful at all, abrupt and uninterested .
+language: en
+author: lani harvey
+photo: https://lh3.googleusercontent.com/a/ACg8ocIB4bEYc3_QSGAwq_rnYY2Mimk-CjWQK_mFWEdDeeCm=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115260106061363211256/reviews
+publish_time: 2022-05-17T02:17:49Z
+==== Review ====
+rating: 5
+text: Great
+language: en
+author: Karen Michelle Daly
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWvjXq0oFuYBTxO6BuS3tw2UhyeQz90SBJx_7ZAYOgfTQ=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/110666910472240705294/reviews
+publish_time: 2020-01-14T07:53:31Z

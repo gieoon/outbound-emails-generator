@@ -1,0 +1,56 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJDYyezhDtO20Rw8_B7DoqH1k
+national_phone_number:03 546 9995
+international_phone_number:+64 3 546 9995
+formatted_address:20 Harley Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:4.8
+google_maps_uri:https://maps.google.com/?cid=6421898026222211011
+website_uri:https://www.tp.co.nz/
+adr_format_address:<span class="street-address">20 Harley Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:6
+display_name:Tavendale and Partners - incorporating Isherwood Le Gros Law Limited
+language:en
+short_formatted_address:20 Harley St, Nelson
+==== Review ====
+rating: 5
+text: I have been a client of Paul Le Gros plus ,latterly, Michelle Byczkow for many years now. I have unfailingly found them to be approachable, knowledgeable ,respectful, efficient, empathetic and communicative .
+I could not recommend them highly enough
+language: en
+author: Liz MacLeod
+photo: https://lh3.googleusercontent.com/a/ACg8ocLdh-sSAKFqMkWNYhlSm1oyJh-1Ve0z3CPXXEABWM3J=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113921715896962143033/reviews
+publish_time: 2022-01-23T20:44:12Z
+==== Review ====
+rating: 5
+text: Helpful staff with good nature to boot,yet to be invoiced but estimate was fair.They went the extra mile helping me to buy my1st home and just have to say thanks with the good review
+language: en
+author: John Clifford
+photo: https://lh3.googleusercontent.com/a-/ALV-UjV7bPaNTtpE299ofqzcSNA6xEAxASzROUZ24ltdnQl26Aw=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/102300750696946134161/reviews
+publish_time: 2020-07-22T03:20:09Z
+==== Review ====
+rating: 5
+text: Really helpful, professional, fair and friendly firm - highly recommend for matters of commercial and property law.
+language: en
+author: Abel Butler
+photo: https://lh3.googleusercontent.com/a/ACg8ocKkjf0X3_MeGXLBwRSUZx_ufFfDPszy_xoKWQmivtsl=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/108899830539419471437/reviews
+publish_time: 2020-09-15T02:56:51Z
+==== Review ====
+rating: 5
+text: Easy to deal with got what I wanted sorted!
+Highly Recommend !!
+language: en
+author: William Rooney
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWv7Zk_8LQXIYhwrBJldwfIJUUUenphU025lq1rRBcceA=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/100967408638886531020/reviews
+publish_time: 2021-03-12T22:53:02Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Terry Hill
+photo: https://lh3.googleusercontent.com/a/ACg8ocLHerYzPHLl2HNEfokCNW6FF3gxfkTSqbYYB5_eKs-1=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108274053135193178642/reviews
+publish_time: 2021-10-18T01:40:54Z

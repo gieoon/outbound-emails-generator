@@ -22,7 +22,7 @@ def send_plain_data(destination_email, company_name, subject, content, website_o
         "destination_email": destination_email,
         "title": subject,
         "from_name": "Webbi Digital Studio",
-        "from_address": "hello@webbi.co.nz",#"alex@mail.webbi.co.nz", #"hello@webbi.co.nz",
+        "from_address": "alex@mail.webbi.co.nz", #"hello@webbi.co.nz",
         "reply_email": support_email,
         "reply_subject": "Hi Jun",
         "reply_body": "Tell me about . . .",

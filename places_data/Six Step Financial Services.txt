@@ -1,0 +1,49 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJy3wXeAXtO20REnPVpp2kXR8
+national_phone_number:021 271 5552
+international_phone_number:+64 21 271 5552
+formatted_address:161 Tasman Street, Nelson 7010, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=2260143585025684242
+website_uri:https://www.sixstep.co.nz/
+adr_format_address:<span class="street-address">161 Tasman Street</span>, <span class="extended-address">Nelson</span> <span class="postal-code">7010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:4
+display_name:Six Step Financial Services
+language:en
+short_formatted_address:161 Tasman St, Nelson
+==== Review ====
+rating: 5
+text: Fantastic team! Thank you to Mike and Kay for all your hard work. You and the Six Step team are always available to answer any of our questions and review our cover regularly.
+Mike has done a great job of tailoring our insurance to fit our unique circumstances and always put our interests first to give us the best option.
+Thank you!
+language: en
+author: Christos Economopoulos
+photo: https://lh3.googleusercontent.com/a/ACg8ocLPv3cv-5yaX2ASocErXjpiU322DZSpRCcQQPVCuzxd=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116024397570993333480/reviews
+publish_time: 2023-11-23T00:42:22Z
+==== Review ====
+rating: 5
+text: Mike and his Six Step team are stars. I would highly recommend them to anyone. They spent a lot of time to totally understand your requirements, asking the hard but right questions, which we sometimes don't want to answer or think about. Their knowledge of the Life protection industry is extraordinary and extensive.  Protecting your life and lifestyle is vital today, and Mike and his team provided the expert advice on choosing the right protection for our particular circumstances. And since the world constantly challenges us and our lives, Six Step were very proactive to review and adjust our insurance to ensure we had the right level of protection for the right cost.
+language: en
+author: Peter Hunt
+photo: https://lh3.googleusercontent.com/a-/ALV-UjV9RjGH76kiYz0UEQMUJDYmZw1Fe5snOLhPz6XlBxb02A=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102739540196973209186/reviews
+publish_time: 2023-10-09T23:40:37Z
+==== Review ====
+rating: 5
+text: I fell and injured my back 3 years ago, I had heath insurance that Mike arranged for me when I first arrived in NZ.
+After falling and ACC rejecting my claim Mike stepped into action and arranged my insurance claim hassle free.
+language: en
+author: Larry Lincoln
+photo: https://lh3.googleusercontent.com/a/ACg8ocIKI2sula6Dbzz8JWmdOi6dD1i9U1rYULph440BXsub=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102699131302584994058/reviews
+publish_time: 2023-10-04T06:02:26Z
+==== Review ====
+rating: 5
+text: Thank you Mike and Kay for your awesome service and sound advice. You both  contact us timeously with updates and renewals insuring our risk is hassle free.
+language: en
+author: Simon Smith
+photo: https://lh3.googleusercontent.com/a/ACg8ocJCtUefuezINbCINM_CS6T1IsV5t_m2AH7wrzTtMPrE=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/104499716619147218876/reviews
+publish_time: 2023-10-06T04:40:37Z
