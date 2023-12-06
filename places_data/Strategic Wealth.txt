@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJD_7S1PBHDW0RekIWy30BHU0
+national_phone_number:09 213 3310
+international_phone_number:+64 9 213 3310
+formatted_address:136 Customs Street West, Auckland CBD, Auckland 1010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=5556599155034833530
+website_uri:http://www.swmgroup.co.nz/contact
+adr_format_address:<span class="street-address">136 Customs Street West</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Strategic Wealth
+language:en
+short_formatted_address:136 Customs St W, Auckland CBD, Auckland

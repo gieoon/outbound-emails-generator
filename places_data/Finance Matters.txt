@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJlRm8m39HDW0RTZo2ZnBYSEM
+national_phone_number:0800 700 600
+international_phone_number:+64 800 700 600
+formatted_address:45 Carr Road, Three Kings, Auckland 1042, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=4848222238638774861
+website_uri:https://www.financematters.co.nz/
+adr_format_address:<span class="street-address">45 Carr Road</span>, <span class="extended-address">Three Kings</span>, <span class="locality">Auckland</span> <span class="postal-code">1042</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:87
+display_name:Finance Matters
+language:en
+short_formatted_address:45 Carr Rd, Three Kings, Auckland
+==== Review ====
+rating: 5
+text: I got to know about Finance Matters through recommendation and Manoj helped me secure the BEST DEAL getting the home loan for our first house! He effectively communicates and explains processes, clarifies questions and plans way forward.  Got us a handsome cash-back from the bank and planned way to repay mortgages smartly without adding any burden. Went well beyond my expectations and can't believe how fortunate we are having used his service!
+language: en
+author: John Lim
+photo: https://lh3.googleusercontent.com/a/ACg8ocKx6sKMk1_smLDD5eUZPBlMBDvxNNWO5ioSZvL1Ppfc=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/117067597753055810962/reviews
+publish_time: 2019-06-27T10:42:53Z
+==== Review ====
+rating: 5
+text: My husband and I are very happy and grateful for having such a professional and helpful Financial adviser. We feel very lucky enough to be under the guidance of Manoj way before the time we bought our first home (Thank you to our friends who recommended Manoj to us). Manoj has extensive knowledge regarding loans, interest rates in finance industry and knows how to benefit his clients and keep them happy. He has always been responsive to any queries we have and is always available to talk and provides useful suggestions. It's been more than a year and we continue to be loyal to Finance Matters as it has been for us. I would highly recommend Mr. Manoj Singhal to all property buyers who would like to receive best advise and benefit from it. Thank you Manoj for all that you have done for us 🙏😊😊😊
+language: en
+author: Aditi Shrestha
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWD0OaX0HyxetiE7IKaX-NFdkvqnFrHsSgs9Wm--26nje4=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/111517364506532463683/reviews
+publish_time: 2021-02-17T02:56:07Z
+==== Review ====
+rating: 5
+text: Great people skills and definitely an expert on financial advice. Understand your needs, advise accurately on how we can achieve on to get our dream home and delivering more than what he promised. Manoj has been amazing throughout our journey of getting our first home, giving his 110%, always there to guide & answer your queries 24/7. He helped us achieve what we aim in 1 year timeline in just 2 months. Extremely overwhelmed with their service, highly recommend to get your financial advice from Finance Matters team. Honest, upfront and reliable team who delivers service to achieve your dream home over short timeline than one can imagine. Best mortgage brokers in town!
+language: en
+author: Saroj Simkhada
+photo: https://lh3.googleusercontent.com/a/ACg8ocK6tfyTw4zhl-AuB01vLWO8iTmdPAx-4u0ejGzeSt40=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115199040144994774302/reviews
+publish_time: 2019-08-18T21:39:52Z
+==== Review ====
+rating: 5
+text: Finance matters mortgage service is second to none. The team is extremely helpful, friendly, informative and enthusiastic. Vinay took the stress and the hassle out of the new loan process and kept us informed on each stage. He made it seem quite easy and was always available if we had questions. He made the effort to come to us, at our convenience. Really appreciated his help and advice. Thank you very much for helping us with the re-financing and other finance related matters. I will be recommending you to anyone I know looking for a good deal
+language: en
+author: Neetu Nagpal
+photo: https://lh3.googleusercontent.com/a/ACg8ocISl-eQby1pAyT_5v0A4lPzfGBU5K54BVdPzmHC-7O1=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103155618979396720348/reviews
+publish_time: 2020-01-29T00:55:02Z
+==== Review ====
+rating: 5
+text: Manoj has been very helpful in assisting us to purchase our first home. Not only has Manoj assisted us with getting finance approved but he has also walked us through the entire purchasing process. He was straightforward and gave us clear and full information to make informed decision (which bank failed to provide). I found Manoj to be very personable and willing to go the extra mile. He kept us regularly updated and reassured and was true to his word on getting us a great deal.Anyone who dream to get in their own house ,call Manoj without hesitation , I am sure you would be really happy that you did.
+language: en
+author: Nitika Kapoor
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXlCLq8xMvIxvY_o9dfh1UpwkYPKZ-X9cUPQU4r5elrZA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115686871631504231486/reviews
+publish_time: 2020-10-28T03:11:59Z

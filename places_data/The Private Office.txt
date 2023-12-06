@@ -1,0 +1,22 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJdQDqrftHDW0RTZaIDC6erKc
+national_phone_number:no phone number
+international_phone_number:no phone number
+formatted_address:2 Princes Street, Level 2/Princes Court, Auckland CBD, Auckland 1010, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=12082205820944160333
+website_uri:https://www.theprivateoffice.co.nz/
+adr_format_address:2 Princes Street, Level 2/<span class="street-address">Princes Court</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:1
+display_name:The Private Office
+language:en
+short_formatted_address:2 Princes Street, Level 2/Princes Court, Auckland CBD, Auckland
+==== Review ====
+rating: 5
+text: We've had one meeting with Nick Crawford, and it was far beyond our expectations. He must be the nicest financial advisor in the country! Honest, straightforward, wise, and definitely not pushing a particular product. Wholeheartedly recommended.
+language: en
+author: Alain Dumont
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVVzPiaevc0F6JN7xlhCQ6W-Wu7pDcHN8fWLzrFlYB-M08=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114876041758956879288/reviews
+publish_time: 2023-06-25T04:57:24Z

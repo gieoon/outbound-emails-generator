@@ -1,0 +1,46 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJqas6441HDW0Rb74eod0CPW0
+national_phone_number:09 361 3670
+international_phone_number:+64 9 361 3670
+formatted_address:Rutherford Rede Ponsonby 91 College Hill, Freemans Bay, Auckland 1011, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=7871450874627669615
+website_uri:http://www.rutherfordrede.co.nz/
+adr_format_address:Rutherford Rede Ponsonby <span class="street-address">91 College Hill</span>, <span class="extended-address">Freemans Bay</span>, <span class="locality">Auckland</span> <span class="postal-code">1011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:4
+display_name:Rutherford Rede Limited
+language:en
+short_formatted_address:Rutherford Rede Ponsonby 91 College Hill, Freemans Bay, Auckland
+==== Review ====
+rating: 5
+text: Trusted investment and investment strategy experts.
+language: en
+author: Paul Montague
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWzxR8ywwHmxg5XHNvub1osllA6PklckI4xg4I604lUzpE=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/105846603197182651277/reviews
+publish_time: 2017-11-12T20:29:31Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Monique Pearson
+photo: https://lh3.googleusercontent.com/a/ACg8ocJHJqdR-vjDtM6tENv-VeRh27caiK9Q7qOH0y3gFoGn=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/118171361175022096756/reviews
+publish_time: 2020-11-13T23:29:47Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Benny Chun (TruePast)
+photo: https://lh3.googleusercontent.com/a/ACg8ocLtHTIrmgP-um9rImmUBLlvch5vneWkLY6IS2tmzpv6=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/115324745618984421180/reviews
+publish_time: 2020-09-11T06:29:03Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: William Sargent
+photo: https://lh3.googleusercontent.com/a/ACg8ocJ67Y6TZNi3yOJZRpvc0i3TCdbuAKVNtMdk-_RxSjgB=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/101829935337495438058/reviews
+publish_time: 2020-12-28T05:35:35Z

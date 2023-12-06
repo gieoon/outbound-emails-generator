@@ -1,10 +1,13 @@
 import requests
 import json
+from _firestore import get_firestore
+import firebase_admin
+from firebase_admin import firestore
 
 EMAIL_API_SERVER = 'https://webbi-email-server.ts.r.appspot.com';
 
 # Straight out of ChatGPT's mouth.
-def send_plain_data(destination_email, subject, content, website_owners, retry_count=0):
+def send_plain_data(destination_email, company_name, subject, content, website_owners, retry_count=0):
     print('Sending email to ', destination_email)
 
     if not retry_count:
@@ -19,7 +22,7 @@ def send_plain_data(destination_email, subject, content, website_owners, retry_c
         "destination_email": destination_email,
         "title": subject,
         "from_name": "Webbi Digital Studio",
-        "from_address": "hello@webbi.co.nz",
+        "from_address": "hello@webbi.co.nz",#"alex@mail.webbi.co.nz", #"hello@webbi.co.nz",
         "reply_email": support_email,
         "reply_subject": "Hi Jun",
         "reply_body": "Tell me about . . .",
@@ -52,6 +55,22 @@ def send_plain_data(destination_email, subject, content, website_owners, retry_c
     
     if response.status_code == 200:
         print("Sent email successfully")
+        save_email_sent(destination_email, company_name, subject, content, website_owners)
+        
+
+def save_email_sent(destination_email, company_name, subject, content, website_owners):
+    db = get_firestore()
+    doc_ref = db.collection("Emails").document(company_name + ' ' + destination_email)
+    doc_ref.set({
+        "content": content,
+        "companyName": company_name,
+        "destinationEmail": destination_email,
+        "subject": subject,
+        "websiteOwners": website_owners,
+        "dateSent": firestore.SERVER_TIMESTAMP,
+    }, merge=True)
+    print('Email saved to Firestore')
+
 
 # Example usage
 # send_plain_data("destination@example.com", "attachment_data", "attachment_path", callback_function)

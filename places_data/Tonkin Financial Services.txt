@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJJSx3ovpHDW0Rufd7KKxau_I
+national_phone_number:09 308 2412
+international_phone_number:+64 9 308 2412
+formatted_address:48 Wyndham Street, Auckland CBD, Auckland 1010, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=17490673273283540921
+website_uri:http://www.tonkinfinancial.co.nz/
+adr_format_address:<span class="street-address">48 Wyndham Street</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Tonkin Financial Services
+language:en
+short_formatted_address:48 Wyndham St, Auckland CBD, Auckland

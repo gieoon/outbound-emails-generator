@@ -70,13 +70,18 @@ def process_place (place):
                 'publish_time': review['publishTime']
             })
     print(out)
-    f = open('./places_data/' + out['display_name'] + '.txt', 'w')
+    def process_file_name(place_name):
+        return place_name.replace('|', '').replace(r"[ ]{2,}", ' ')
+
+    out_filename = process_file_name(out['display_name'])
+    print('Saving as ', out_filename)
+    f = open('./places_data/' + out_filename + '.txt', 'w', encoding='utf-8')
     for key in out:
         if key == 'reviews':
             for review in out['reviews']:
                 f.write('==== Review ====\n')
                 for review_key in review:
-                    print("review_key", review_key)
+                    print("review_key", review_key, review)
                 
                     f.write(f"{review_key}: {review[review_key]}\n")
                 
@@ -103,5 +108,6 @@ def process_place (place):
     
 # searchNearby('Website developers in Nelson, New Zealand')
 # query = "Webbi Digital Studio, Richmond Nelson"
-query = "Rotary Clubs in Auckland"
+# query = "Rotary Clubs in Auckland"
+query = "Financial Advisors in Auckland"
 searchNearby(query)

@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJe6usMgxIDW0RTiBYhJMmuNg
+national_phone_number:09 307 2331
+international_phone_number:+64 9 307 2331
+formatted_address:Suit 2.1/8A Cleveland Road, Parnell, Auckland 1052, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=15616274122929610830
+website_uri:http://www.stuartcarlyon.co.nz/
+adr_format_address:Suit 2.1/<span class="street-address">8A Cleveland Road</span>, <span class="extended-address">Parnell</span>, <span class="locality">Auckland</span> <span class="postal-code">1052</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Stuart and Carlyon Ltd
+language:en
+short_formatted_address:Suit 2.1/8A Cleveland Rd, Parnell, Auckland

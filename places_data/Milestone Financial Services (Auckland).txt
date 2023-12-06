@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJCxRhyIlIDW0R9IybJj_rI2c
+national_phone_number:09 524 0996
+international_phone_number:+64 9 524 0996
+formatted_address:644 Great South Road, Ellerslie, Auckland 1051, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=7432042466554645748
+website_uri:no website
+adr_format_address:<span class="street-address">644 Great South Road</span>, <span class="extended-address">Ellerslie</span>, <span class="locality">Auckland</span> <span class="postal-code">1051</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:Milestone Financial Services (Auckland)
+language:en
+short_formatted_address:644 Great South Rd, Ellerslie, Auckland

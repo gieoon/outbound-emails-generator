@@ -1,0 +1,68 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJEx6U1FtHDW0REQUwNznXkGw
+national_phone_number:0800 110 285
+international_phone_number:+64 800 110 285
+formatted_address:HSBC Tower Level 26/188 Quay Street, Auckland City, Auckland 1010, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=7822989193481553169
+website_uri:http://www.myfutureplan.co.nz/?utm_campaign=gmb&utm_source=local&utm_medium=organic
+adr_format_address:HSBC Tower Level 26/<span class="street-address">188 Quay Street</span>, <span class="extended-address">Auckland City</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:8
+display_name:MyFuture
+language:en
+short_formatted_address:HSBC Tower Level 26/188 Quay St, Auckland City, Auckland
+==== Review ====
+rating: 5
+text: We've partnered with Lara at My Future for approximately 2.5 years.
+
+Lara displays exceptional professionalism, financial knowledge and approachability.
+
+Throughout our collaboration, alongside her dedicated team, Lara has provided invaluable guidance, enabling us to make significant progress in paying down our mortgage and even acquiring our first investment property!
+
+We are sincerely appreciative of Lara's advice and support getting us to where we are now - especially considering the challenges posed to us financially during COVID-19, rising interest rates and taking time out to have two babies.
+
+We can’t wait to further our wealth creation journey with Lara and her team!
+language: en
+author: B & A Van Der Hoeven
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVG-HQRBh-07t3xAFXcBKV6B3yZYT_7bxdYgc5XMJF4qg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107613926858177759775/reviews
+publish_time: 2023-09-18T05:59:51Z
+==== Review ====
+rating: 5
+text: I got in touch with Lara because I'd listened to enough personal finance podcasts that suggested contacting a financial advisor. I'm so glad I did because there is only so far general financial reckons can take you.
+
+Lara's speciality is helping people achieve financial freedom and, even though I'm fairly early in what will be a years-long journey with her, I'm confident I'm in the best possible hands. She has put in place a plan that I could never have sorted out myself, no matter how many podcasts, books or articles on the topic I consumed.
+
+Lara is great at explaining stuff, extremely responsive, very personable and non-judgmental. She gets that I don't want to live off mayonnaise sandwiches, give up makeup and move back in with my parents in order to achieve my financial goals: Lara works with what you're willing to change or commit, rather than asking you to make unrealistic sacrifices. She knows it's important to enjoy life now as well as attain that freedom down the track. This means a lot.
+
+I have recommended Lara to many friends and acquaintances already - as someone in their 30s, the timing couldn't be better to get a financial advisor setting you up for the best possible future. Thanks for everything so far :)
+language: en
+author: Britt Mann
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUzYR5LFGlccNEdbWTz-VHRoNoU5d8xgCmsdjbbnnnr0ZM=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108279455578090464095/reviews
+publish_time: 2023-10-11T01:02:56Z
+==== Review ====
+rating: 5
+text: Have loved working with Lara and Jon at MyFuture. They are so proactive and engaged, and really take the time to explain things if you don't understand. I first engaged them to help me achieve my financial goals by putting in place a long-term financial plan. Getting that back was really insightful and has helped me understand exactly what I can achieve. The first milestone has been the purchase of my first investment property! As a first time property purchaser the process seemed quite overwhelming, but Lara and Jon were with me every step of the way and took a lot of stress off my hands. I'm really looking forward to continuing the relationship.
+language: en
+author: Clarissa Hirst
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUAo_sv1xzVRdgICpYw0N9Tsu7ctNzzb8iydWxCjFRp33Y=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103798186753398935302/reviews
+publish_time: 2023-09-15T03:51:45Z
+==== Review ====
+rating: 5
+text: 100% would highly recommend Lara and MyFuture. Lara has been our financial advisor for the past 7 years helping us set and achieve our financial goals. Our relationship with Lara has been nothing but easy and educational she makes finances look so easy and simple which it should be. Lara and the team are nothing but professional, efficient and highly experience.
+language: en
+author: Kathleen Vatuvei
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVtCayZ6QIza-0mYSBYYYjHE_SYpMBjovax0mL-PKd7WA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103601499090866318518/reviews
+publish_time: 2023-01-25T03:44:36Z
+==== Review ====
+rating: 5
+text: Fantastic to get Lara's support and help which is making a huge difference for us.
+language: en
+author: CL
+photo: https://lh3.googleusercontent.com/a-/ALV-UjX1den9jiiGXLdPt1547Ga4PUEkBjd7Usb4vXzRbezznFg6=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/104734916316713430949/reviews
+publish_time: 2023-05-07T03:22:56Z

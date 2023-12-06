@@ -1,0 +1,22 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJRUg6zPNHDW0RfgRcwHw55ss
+national_phone_number:09 308 2975
+international_phone_number:+64 9 308 2975
+formatted_address:Level 1, Suite 1/1 Faraday Street, Parnell, Auckland 1052, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=14692494042308805758
+website_uri:http://www.pwa.nz/
+adr_format_address:Level 1, Suite 1/<span class="street-address">1 Faraday Street</span>, <span class="extended-address">Parnell</span>, <span class="locality">Auckland</span> <span class="postal-code">1052</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:1
+display_name:Private Wealth Advisers Limited
+language:en
+short_formatted_address:Level 1, Suite 1/1 Faraday St, Parnell, Auckland
+==== Review ====
+rating: 5
+text: They are very professional and offer great advice
+language: en
+author: Todd Lust
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXrqeExeQkQvM4RFQUs5dPnk3rsdOX9tmegMSenI-vRROM=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/110021933284236711404/reviews
+publish_time: 2021-02-09T01:38:04Z

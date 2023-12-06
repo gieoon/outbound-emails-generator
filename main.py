@@ -24,7 +24,7 @@ async def main():
 
     for line in f.readlines():
         [google_maps_url, google_maps_company_name, company_url, company_phone, company_description, company_owners] = line.split('¿')
-        # print('loaded: ', google_maps_url, company_name, company_url, company_phone, company_description, company_owners)
+        print('loaded: ', google_maps_url, company_name, company_url, company_phone, company_description, company_owners)
         
         if company_url != 'no website':
             [title, meta_description, emails, owners, company_name] = await get_company_website_details(page, company_url)

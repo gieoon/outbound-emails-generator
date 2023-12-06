@@ -11,6 +11,11 @@ async def send_emails():
         print("file_list: ", file_list)
         
         for filename in file_list:
+            
+            # TODO remove this.
+            if 'Webbi Digital Studio.txt' != filename:
+                continue
+
             file_path = os.path.join(directory_path, filename)
 
             if os.path.isfile(file_path):
@@ -32,7 +37,7 @@ async def send_emails():
                 print('====== Email content ======\n', email_stripped, '\n====== END OF EMAIL CONTENT ======\n')
                 val = input('Press Enter to approve and send . . .')
                 if len(val) == 0:
-                    send_plain_data(destination_email, subject, email_stripped, owners , retry_count=0)
+                    send_plain_data(destination_email, company_name, subject, email_stripped, owners , retry_count=0)
                 else:
                     input('Not sending and skipping to the next email')
     else:

@@ -1,0 +1,60 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJe6b5-4dGDW0RAbPYYNhjR0k
+national_phone_number:09 215 4044
+international_phone_number:+64 9 215 4044
+formatted_address:127 May Road, Mount Roskill, Auckland 1041, New Zealand
+utc_offset_minutes:780
+rating:4.2
+google_maps_uri:https://maps.google.com/?cid=5280298869104096001
+website_uri:http://www.tulipfinance.co.nz/
+adr_format_address:<span class="street-address">127 May Road</span>, <span class="extended-address">Mount Roskill</span>, <span class="locality">Auckland</span> <span class="postal-code">1041</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:20
+display_name:Tulip Financial Services Limited
+language:en
+short_formatted_address:127 May Rd, Mount Roskill, Auckland
+==== Review ====
+rating: 5
+text: It is always a pleasure to be with Tulip Financial Services Limited. As a customer I have experience so far same consistency in great customer service whenever I have called them. They had a great team and good insurance advisor. They are always helpful in claims and I am total confident of my policies with them. They have always answered my questions via phone and email. Our experience we felt they really make you aware the importance of protecting your family with life insurance. Great staff and I would highly recommend if looking for good and honest service.
+language: en
+author: Jayesh Oza
+photo: https://lh3.googleusercontent.com/a-/ALV-UjW6XYKrbXzxevdhw_wVr3zKce7gPGZ_SeoyFd08DMkHbkA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106799384905881864080/reviews
+publish_time: 2020-01-31T16:19:59Z
+==== Review ====
+rating: 5
+text: My experience with Tulip Financial Services Advisers was truly amazing. They were so professional from the beginning of my meeting to the end. They were so knowledgeable about health insurance and my insurance needs that it just blew me away.
+
+Especially the experience they gave me at the time of claim was really very good, they stood by me all the way through claim and made sure I had a smooth journey, I was been given confidence and warmth of friendship right from my adviser to their administration team. I was impressed.
+
+Whatever your needs are for Insurance, I highly recommend Tulip Financial Services Limited.  You won't regret it I assure you!!!!!!!!!
+language: en
+author: Raj Patel
+photo: https://lh3.googleusercontent.com/a/ACg8ocLfRjisqprcG6ESBV15n9en-Sv8bu7NGqsPq99oaO52=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114843525874531014974/reviews
+publish_time: 2020-02-05T20:20:40Z
+==== Review ====
+rating: 5
+text: i have been a client of Tulip Financial services ltd for more than 9 years now. i was recommended by a good mate of mine. Initially i was hesitant to deal with them as it was a first time for me getting involved into insurance policy and stuff.
+Dealing with Mahesh, i can say it was a smooth sailing for me and my family. Mahesh is very approachable person and has personally assisted us during the time of need when my wife was going through some medical surgery. i can highly recommend their services.
+language: en
+author: Khartik Patel
+photo: https://lh3.googleusercontent.com/a/ACg8ocLz9rPWWZKeemlTAF2rxML1Yo92ElylI5TzWN8vy4NQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116803804174323223868/reviews
+publish_time: 2020-02-12T20:24:21Z
+==== Review ====
+rating: 5
+text: "Tulip Financial Services Limited" was recommended to us a few years ago by a friend. At the time we were searching for a knowledgeable, proactive agent that would find the best policies to fit our needs. We wanted a professional we could rely on to continually keep our policies updated with the right coverage and competitive rates. We found exactly what we were searching for. Mahesh and his staff have met and exceeded our expectations from day one. They provide excellent customer service with ongoing communication and personalized support. It has been our experience that going above and beyond is the norm for Mahesh and his team.
+language: en
+author: Bijal Kibliwala
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVnRw_9sECD1f7-0_xBUS0vDEMb5nhsF5sN1uLanDZ288I=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102802490831193963543/reviews
+publish_time: 2020-02-20T22:25:07Z
+==== Review ====
+rating: 1
+text: I’m not recommending these advisers base on my own experience. They are so nice when they sale the insurance or other financial services but when you need them later on, even not responding. They keep charging my account after ending insurance contract.
+Thank you
+language: en
+author: Nabi Sahil
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXB5ZH6sn2dqbpg3hf2omAJcamgPJW8sCZWf3c_MtXNElM=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105711769954187465369/reviews
+publish_time: 2023-03-13T22:19:29Z

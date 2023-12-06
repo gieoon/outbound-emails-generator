@@ -1,0 +1,56 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJvWJNW0lHDW0R-DDajcJKJ70
+national_phone_number:09 320 4947
+international_phone_number:+64 9 320 4947
+formatted_address:41 High Street, Auckland CBD, Auckland 1010, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=13629944996724093176
+website_uri:https://www.lighthousefinancial.co.nz/
+adr_format_address:<span class="street-address">41 High Street</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:125
+display_name:Lighthouse Financial Services Auckland
+language:en
+short_formatted_address:41 High St, Auckland CBD, Auckland
+==== Review ====
+rating: 5
+text: I want to express my gratitude to Michael for his seamless communication, excellent advice, and timely, professional service throughout the mortgage process. His expertise and dedication made the entire experience smooth and stress-free. I highly recommend Michael and his team to anyone in need of a reliable mortgage advisor.
+language: en
+author: Grusha Saini
+photo: https://lh3.googleusercontent.com/a/ACg8ocJ5X-VMuVCarTgAmg9tpEloEnaIOoPgxAYhVfABze4i=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106614444014230244574/reviews
+publish_time: 2023-11-30T08:18:03Z
+==== Review ====
+rating: 5
+text: Absolutely unbelievable service from Andrew and Laura. Have helped us buying our first home in what is a very difficult process to get your head around at times. They made it as easy as can be, and always explained everything really clearly. Felt in such safe hands with them. Would (and already have) recommend to anyone.
+language: en
+author: Jacob Buchan
+photo: https://lh3.googleusercontent.com/a/ACg8ocJC71Cajy-Q-b0FiPiLvEJidzSnr-48-b4GiZqSD4RI=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113246516935006800525/reviews
+publish_time: 2023-10-30T20:41:50Z
+==== Review ====
+rating: 5
+text: I’ve been using Lighthouse for our Airbnb tax returns for the last 3 years. They provide a comprehensive service and are always friendly and obliging to answer questions I may have. Sam is always a pleasure to deal with as is the rest of their staff. Highly recommended
+language: en
+author: George Meyer
+photo: https://lh3.googleusercontent.com/a/ACg8ocJ1JZzNT8KCB0VTB4_Q1VB8281TPCfcFkqfmSQNe6N6=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112865671986294216205/reviews
+publish_time: 2023-11-26T17:30:20Z
+==== Review ====
+rating: 5
+text: Andrew and Laura from Lighthouse financial services, has helped us in securing the mortgage for the purchase of investment property. It would not have been this easy without their help.  They have provided a great advise and provided all the information (in a timely manner) for us to make informative decision. Their communication had been excellent throughout the process. Highly recommend them.
+language: en
+author: Thiyagarajan Gopalan
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUEnLHMBOLvR-TZURNPSsdjINU43R_gHThSPBDckb7futw=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113269444700420722945/reviews
+publish_time: 2023-09-16T02:17:04Z
+==== Review ====
+rating: 5
+text: We came across Lighthouse Financials through our property coach, Ilse Wolf - Andrew & Laura from Lighthouse have been super helpful and guided us through our first investment property! They helped us understand they nuances in the real estate market & guided us in every step of our journey.
+
+The best part is they made finances so easy to understand even though personally that’s not my expertise. Would definitely recommend lighthouse financial & cannot think the entire team enough for helping us secure our first property 😊 !
+language: en
+author: Paankhuri Sharma
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXZU7nArfKo2CZA3dgGE41uAP6QdFjF7k1FHHFTe2MOY3g=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108012227959002669162/reviews
+publish_time: 2023-10-03T23:23:44Z

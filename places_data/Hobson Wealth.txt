@@ -1,0 +1,30 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJhXpwMoZHDW0Rb2uJZ37Cps8
+national_phone_number:0800 742 737
+international_phone_number:+64 800 742 737
+formatted_address:L4, Australis Nathan Buildings 37 Galway Street, Britomart Place, Auckland CBD, Auckland 1010, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=14962860660143778671
+website_uri:http://www.hobsonwealth.co.nz/
+adr_format_address:L4, Australis Nathan Buildings 37 Galway Street, <span class="street-address">Britomart Place</span>, <span class="extended-address">Auckland CBD</span>, <span class="locality">Auckland</span> <span class="postal-code">1010</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:2
+display_name:Hobson Wealth
+language:en
+short_formatted_address:L4, Australis Nathan Buildings 37 Galway Street, Britomart Pl, Auckland CBD, Auckland
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Ingeborg Hickey
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWpREBinusa_d4Btjj51IUTRAfAJxtzV7u-ATZxlhlx8EY=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109630987729063266839/reviews
+publish_time: 2022-03-24T05:26:35Z
+==== Review ====
+rating: 5
+text: 
+language: 
+author: Callum Macdonald
+photo: https://lh3.googleusercontent.com/a/ACg8ocJwSZgrpPnRmhMIp5W2BYi7G2xM2JCQB8qalw03olA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110394748482487903153/reviews
+publish_time: 2021-07-03T02:43:15Z

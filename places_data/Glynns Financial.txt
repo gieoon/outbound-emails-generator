@@ -1,0 +1,56 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJfddDSeI7DW0Rzg68YBLvDdI
+national_phone_number:09 414 4113
+international_phone_number:+64 9 414 4113
+formatted_address:16/44 William Pickering Drive, Rosedale, Auckland 0632, New Zealand
+utc_offset_minutes:780
+rating:4.9
+google_maps_uri:https://maps.google.com/?cid=15136016784873492174
+website_uri:https://www.glynnsfinancial.co.nz/
+adr_format_address:16/<span class="street-address">44 William Pickering Drive</span>, <span class="extended-address">Rosedale</span>, <span class="locality">Auckland</span> <span class="postal-code">0632</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:18
+display_name:Glynns Financial
+language:en
+short_formatted_address:16/44 William Pickering Dr, Rosedale, Auckland
+==== Review ====
+rating: 5
+text: Daniel and the team have been incredible to deal with. Made it so easy and got things sorted for us really quickly. Both of us are self employed so it’s a little harder to get lending, especially post Covid, but Daniel and the team made every step easier and we have a great result.
+
+We also used them a few years back and had the same great experience. Highly recommend as a mortgage broker!
+language: en
+author: Lizzie Pike
+photo: https://lh3.googleusercontent.com/a/ACg8ocLphRPkv53lpw0xTHEAMWNeADzMAFJq-uHVXNruZfUk=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108486765989056883686/reviews
+publish_time: 2022-05-11T02:31:01Z
+==== Review ====
+rating: 5
+text: Daniel is a great advisor - he takes the time for yearly in-person reviews and going through all the details in simple language to make sure we understand everything.  He is not only professional, but has a warm personality and shares many stories and his life experiences which is always very enlightening.  Thank you Glynns Financial
+language: en
+author: Ashvina Kumar
+photo: https://lh3.googleusercontent.com/a/ACg8ocLAAvRIpXdAn7hYR37gac13dkZFV3p9DJq4Q5gmFnvt=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106466076089696022363/reviews
+publish_time: 2022-10-29T03:42:34Z
+==== Review ====
+rating: 5
+text: Daniel and his team have been fantastic as we have relooked our health and well-being policies. Concise detailed information, good & regular feedback, ensuring we understood plus assistance with paperwork. Great follow up and support. Highly recommend.
+language: en
+author: Karyn Gordon
+photo: https://lh3.googleusercontent.com/a/ACg8ocI6_Hw08x6gPYAqEwsnS_oyjpsmgPY4pEGjglj-qED5=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100089121890329779554/reviews
+publish_time: 2021-07-29T01:43:54Z
+==== Review ====
+rating: 5
+text: Excellent, Daniel and Fiona patiently guided us as we changed our minds, got cold feet and came back again over many months before then being able to get us sorted quickly and efficiently once we were ready to go. We wouldn't have been able to get our new home without their help and assistance.
+language: en
+author: Jonathan Ng
+photo: https://lh3.googleusercontent.com/a/ACg8ocL69knQYS-ngT-UzE7LpR-pHy-R2GmO6Bx8QLtqAEwt=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/114793399125611672785/reviews
+publish_time: 2022-03-25T03:38:58Z
+==== Review ====
+rating: 5
+text: It has been a pleasure to be a client of Daniel and Fiona from Glynns Financial for many years now. Nothing is too small or big for them to assist with. They provide excellent advice and support in a human way. I would highly recommend working with them whether it be for insurance, Kiwisaver or your mortgage. Thanks team!
+language: en
+author: Darren Levy
+photo: https://lh3.googleusercontent.com/a/ACg8ocLquYNr-GepDSf6sEBpv3MDgwb9v12ud1803wHGZBMd=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107325251285958255910/reviews
+publish_time: 2021-04-29T03:32:24Z

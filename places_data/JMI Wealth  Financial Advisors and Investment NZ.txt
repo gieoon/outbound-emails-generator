@@ -1,0 +1,12 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJF_TD_Nc5DW0RTSWkm1i4Q4s
+national_phone_number:09 308 1450
+international_phone_number:+64 9 308 1450
+formatted_address:1/87 Hurstmere Road, Takapuna, Auckland 0622, New Zealand
+utc_offset_minutes:780
+google_maps_uri:https://maps.google.com/?cid=10035067085419455821
+website_uri:http://www.jmiwealth.co.nz/
+adr_format_address:1/<span class="street-address">87 Hurstmere Road</span>, <span class="extended-address">Takapuna</span>, <span class="locality">Auckland</span> <span class="postal-code">0622</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+display_name:JMI Wealth | Financial Advisors and Investment NZ
+language:en
+short_formatted_address:1/87 Hurstmere Rd, Takapuna, Auckland

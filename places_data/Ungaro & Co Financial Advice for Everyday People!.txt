@@ -1,0 +1,56 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJjXGXOpFHDW0RBhYl25HFh8w
+national_phone_number:09 360 2179
+international_phone_number:+64 9 360 2179
+formatted_address:301/28 College Hill, Freemans Bay, Auckland 1011, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=14737965535830808070
+website_uri:http://www.ungaro.co.nz/
+adr_format_address:301/<span class="street-address">28 College Hill</span>, <span class="extended-address">Freemans Bay</span>, <span class="locality">Auckland</span> <span class="postal-code">1011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:41
+display_name:Ungaro & Co Financial Advice for Everyday People!
+language:en
+short_formatted_address:301/28 College Hill, Freemans Bay, Auckland
+==== Review ====
+rating: 5
+text: Very good advice financially and a likable, genuine, sincere person. Darcy is very professional and he treats your time as just as valuable as his is. He has educated himself in lots of different avenues of financial advice and tries to give you an overall perspective from all the objective viewpoints so that you can make the best decision for yourself. You can tell he cares and takes the time to understand your situation and find your best possible paths forward in the direction you choose. I would definitely and have recommended working with him to understand your financial options better to improve your financial life.
+His podcasts are also great as well…!
+Thanks again, Darcy!
+language: en
+author: Cristen Poole
+photo: https://lh3.googleusercontent.com/a/ACg8ocLnAB-a_QEehtXVObz7uaA6z0f66g5Cn9SEeHuLGxIx=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103351131559152318332/reviews
+publish_time: 2023-10-13T07:19:58Z
+==== Review ====
+rating: 5
+text: We've been clients of Ungaro & Co for over 6+ years and highly recommend Darcy & his team.  From the initial meeting, creating our financial plan and helping us understand our financial personalities was enlightening - Darcy has a knack for explaining financial matters in such a easy way we've always felt empowered and confident with our choices. Unlike going direct to the bank having Darcy check in annually and having our best interests at the forefront is why we have remained loyal clients of Ungaro & Co over the years.
+language: en
+author: Amorangi Paitai
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUXHn3BTkFwiLXZPfCQucmXWzKRWLcZgsRApIfcs-kedco=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113722807052091631687/reviews
+publish_time: 2023-09-04T01:45:40Z
+==== Review ====
+rating: 5
+text: Great experience talking to Darcy, absolutely recommend for any of your financial needs, extensive knowledge in the field and very easy to talk to. With all the fake information around the internet and people giving advice for their own gain it’s difficult to find someone who actually cares about their customers but look no further because Ungaro and co have got you covered.
+language: en
+author: Dillon Du plooy
+photo: https://lh3.googleusercontent.com/a/ACg8ocLlcesFnYtONZZixVP2WPW5ndP0seKEFiXqnZuyNyva=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105704934028363001978/reviews
+publish_time: 2023-11-28T01:11:44Z
+==== Review ====
+rating: 5
+text: We have worked with Darcy for over 10 years for all our insurance and mortgage needs, he provides great market insight and valuable knowledge that have helped us make informed decisions appropriate for our current situation and helped us to build towards our future. He is always extremely professional and his friendly approach makes him a pleasure to deal with. We have also benefited from his extensive professional network that has provided us support in other areas. I would highly recommend Darcy and the team at Ungaro and Co
+language: en
+author: Chris Schade
+photo: https://lh3.googleusercontent.com/a/ACg8ocI80feEfDrepWimHj0-KLVc2qMHfi6GocAp6iIvS8st=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112004356210878400394/reviews
+publish_time: 2023-04-20T03:43:54Z
+==== Review ====
+rating: 5
+text: Really enjoyed our meeting with Darcy, we felt we got value for money. We felt Darcy was giving us unbiased advise & trust the advise he gave us. We will definitely utilise Darcy’s services in the future.
+language: en
+author: Paul & Christina Butt
+photo: https://lh3.googleusercontent.com/a/ACg8ocJyzCYLhqxNjUOxFBXsFF6BDkwAwKGVP-ilpk2xalZF=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/115157717765649758462/reviews
+publish_time: 2023-07-05T06:18:02Z

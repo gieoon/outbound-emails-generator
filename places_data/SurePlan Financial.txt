@@ -1,0 +1,75 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJjTNkMcNHDW0RHN3m-FsYVv0
+national_phone_number:09 551 9071
+international_phone_number:+64 9 551 9071
+formatted_address:CSG Building Level 4/1 Nugent Street, Grafton, Auckland 1023, New Zealand
+utc_offset_minutes:780
+rating:5
+google_maps_uri:https://maps.google.com/?cid=18254804922889854236
+website_uri:http://www.getsure.co.nz/
+adr_format_address:CSG Building Level 4/<span class="street-address">1 Nugent Street</span>, <span class="extended-address">Grafton</span>, <span class="locality">Auckland</span> <span class="postal-code">1023</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:24
+display_name:SurePlan Financial
+language:en
+short_formatted_address:CSG Building Level 4/1 Nugent St, Grafton, Auckland
+==== Review ====
+rating: 5
+text: We’ve been with SurePlan for about three years now. Ever since we’ve been married, my wife and I have struggled to get on top of our finances. For the first time, with our friends at Sureplan’s help, we have a budget, we’re living within it, and we’re making progress financially. It’s a great feeling.
+language: en
+author: Rich Hunter
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUb_E-FpaeDlF_LXNEWvuDj9Wp0DbQM7GGbZzKk1cqpyjk=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112807103521266776556/reviews
+publish_time: 2023-04-27T09:15:43Z
+==== Review ====
+rating: 5
+text: We've been with SurePlan Financial for 2 years now and they've really helped get on track with our finances. We have been able to track our spending and plan for the future. It was confronting laying out all our spending on the line - but SurePlan made it easy. Excellent, friendly, knowledgeable service !!!!
+language: en
+author: Edward Cowley
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU3-QdkiAVDgycvSs8LwaMw9iQ2isRmY56uBTndZO8f-kg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116530216065213670521/reviews
+publish_time: 2022-12-02T01:36:55Z
+==== Review ====
+rating: 5
+text: One year ago, My husband & I decided to sign up with Sureplan, after the recommendation from a friend of a friend. When I told my husband that I had set up an initial consultation with one of the Sureplan advisors, he was not particularly happy lol. He was under the impression that we were managing our finances fairly well, and didn’t see the need for any outside help.
+
+I was 27 & my husband was 31 years old when we sat down for our initial consultation with Gareth from Sureplan. We truly went into our initial consultation thinking that we were going to share with Sureplan our financial state, to which they would say, “we’re too far gone”, or “we’re too young to be making these kinds of money moves and decisions”.  We had a sum of debt on our credit card, as well as past debt from when we were younger & foolish with our finances. We truly thought that our ages, as well as our current state of debt, would be our biggest set backs in trying to make big money decisions like these with Sureplan. Man, were we wrong!
+
+Gareth from Sureplan saw the potential in us as a couple, and helped us believe that we could experience financial freedom, not just when we’re older, but right now. We linked up with Gareth & Mike, and both of them were so supportive of our future financial goals and made us feel at ease with what was ahead.
+
+Today, my husband and I can 100% say that we are in a place of financial freedom, this young, that we NEVER would have experienced without the help of Gareth, Mike, and Sureplan altogether. We thought that our ages & current financial state, would be our biggest set back in trying to make big money decisions like these, but Sureplan jumped at the opportunity to support us, and have continued to do so, one year on.
+
+Within a year, we’ve absolutely smashed our financial goals and then some. In one year of signing up with Sureplan we have knocked off $20,000 of our mortgage, paid for 5 nights flights + accom to Rarotonga for a holiday, & two staycations around NZ, paid off all our debt from our previous credit card (to which we no longer have anymore, as we are in no financial ‘need’ of being in credit to buy/pay for things), and so much more. All of this was paid for in FULL and not in credit, which is something we never could have been able to say prior to signing up with Sureplan.
+
+What we’re trying to say is that Sureplan helped put us in a financial place where we had enough savings to pay for things in full, rather than in credit, and STILL have cash left over to live comfortably, treat ourselves, and give/donate to the things that matter to us. Their guidance and financial advice never put us in a place of financial deficit ever, which is what we perceive people, particularly young people like us, think when they think of “requiring the help of a financial advisor”. People our age tend to think that once you sign up with a financial advisor, they’re just going to cost you more than you’re ever going to save, and you won’t be able to spend money where you like.
+
+It was the total opposite with Sureplan. They advised us where to save, advised us where to invest, celebrated with us when we were in a place to purchase new things for ourselves, and had our best interests at heart, with every piece of advice and guidance they gave us. I don’t know where we’d be without Sureplan’s help over the past year, but I know it wouldn’t be where we are today.
+
+We can honestly testify that signing up with Sureplan has been one of the best and most life-changing decisions we’ve ever made. This is what we’ve achieved under the guidance + support of Sureplan in just one year. We cannot even begin to imagine what’s ahead of us in the years to come!
+
+Thank you Gareth, Mike & Sureplan! You guys are the best!
+language: en
+author: Fay Brown
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWyCFRIGJU8mzfNWt3Z-yADNCzjYflj4RKcLb5r9m1iDA=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109863657154773124886/reviews
+publish_time: 2022-08-06T05:33:00Z
+==== Review ====
+rating: 5
+text: John and his team at SurePlan have been invaluable in providing us with a plan to achieve our long term financial goals.
+
+From our very first meeting I was pleasantly surprised at how down to earth and approachable everyone in the team has been.  The level of support and communication we have received has been excellent, helpful and reassuring.
+
+There is a level of comfort knowing that John and his team are always there to help guide, organize and plan for our financial goals.
+language: en
+author: Pete A
+photo: https://lh3.googleusercontent.com/a/ACg8ocIl5-M0pXj4vQ9pZdhPrMRekHBifVPWjYeIb7AROmz-=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102044630677290618006/reviews
+publish_time: 2020-03-23T08:45:21Z
+==== Review ====
+rating: 5
+text: We first met with SurePlan Financial in 2014 and they put together a financial plan for us. I was impressed with what they came up with and my wife and had it implemented shortly after.
+SurePlan came up with a way to pay down our mortgage years earlier without sacrificing our lifestyle saving us tens of thousands of dollars. The results to date have been much better than predicted. Thanks to the team we are now in great shape for future retirement.
+language: en
+author: Lawrence Higham
+photo: https://lh3.googleusercontent.com/a/ACg8ocJupjitYa0Fkge14Ry-5YaJUvqZybowd0iaPcQht61r=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/111307493438336374397/reviews
+publish_time: 2020-06-04T07:18:12Z
