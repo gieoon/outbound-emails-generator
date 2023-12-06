@@ -16,6 +16,8 @@ e.g. "Beauty salons in Tokyo"
 1. Firestore to store sent emails for lead tracking.
 1. Your shameless ego
 
+# How to run this:
+
 ## 1. Modify the places query to get a list of companies.
 $ python google_places.py
 
