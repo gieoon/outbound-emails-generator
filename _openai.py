@@ -28,11 +28,12 @@ async def generate_email(title, meta_description, website_owners, company_name, 
                     Use simple and easy to read language. Keep it brief.
                     Put their company name, {company_name} in the subject and personalize the email to their company and industry, with suggested offerings based on what they might need.
                     Mention features I can provide which would be most useful to their company. 
+                    Link to https://www.webbi.co.nz and let them know what value they can get from here.
                     Do not use placeholders.
 
                     End the email with:
-                    Jun Kagaya, 
-                    Web Designer, Webbi Digital Studio
+                    Alex Kagaya, 
+                    Founder, Webbi Digital Studio
                     https://www.webbi.co.nz
                     hello@webbi.co.nz
                     +64 022 091 0069 

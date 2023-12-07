@@ -13,9 +13,14 @@ from _openai import generate_email
 f = open('./companies_place_data.txt', 'r', encoding='utf-8')
 delimiter = '¿'
 
+# my_details = f"""
+# My company name: Webbi Digital Studio 
+# My company description: A New Zealand-based website design agency building conversion focused websites that grow your brand. Sample work can be found on our home page so you can get an idea of what to expect.
+# """
+
 my_details = f"""
-My company name: Webbi Digital Studio 
-My company description: A New Zealand-based website design agency building conversion focused websites that grow your brand. Sample work can be found on our home page so you can get an idea of what to expect.
+My company name: Webbi 
+My company description: A New Zealand-based website design team building fast, stunning and conversion focused websites that grow brands. Sample work is on our home page.
 """
 
 async def main():

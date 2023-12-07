@@ -3,7 +3,7 @@ import os
 import re 
 from emailer import send_plain_data
 
-directory_path = './generated_emails/'
+directory_path = './generated_emails/to send/'
 
 async def send_emails():
     if os.path.exists(directory_path) and os.path.isdir(directory_path):
