@@ -12,8 +12,9 @@ async def send_emails():
         
         for filename in file_list:
             
-            # TODO remove this.
-            if 'Webbi Digital Studio.txt' != filename:
+            # TODO remove this
+            if 'Rotary' in filename:
+            # if 'Webbi Digital Studio.txt' != filename:
                 continue
 
             file_path = os.path.join(directory_path, filename)

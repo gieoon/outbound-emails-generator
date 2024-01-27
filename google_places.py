@@ -35,6 +35,11 @@ def searchNearby(query):
     for place in response_json['places']:
         n += 1
 
+        # Only get low rating services.
+        print("place['userRatingCount']", place['userRatingCount'])
+        if place['userRatingCount'] < 10:
+            print('maps uri: ', place['googleMapsUri'])
+
         # TODO remove this
         if n < 2:
             place_obj = process_place(place)
@@ -42,7 +47,7 @@ def searchNearby(query):
 def process_place (place):
     out = {}
 
-    print('place: ', place)
+    # print('place: ', place)
 
     # Number of ratings
     out['url'] = 'https://www.google.com/maps/place/?q=place_id:' + place['id']
@@ -65,7 +70,7 @@ def process_place (place):
     out['reviews'] = []
     if 'reviews' in place:
         for review in place['reviews']:
-            print('review: ', review)
+            # print('review: ', review)
             out['reviews'].append({
                 "rating": review['rating'],
                 'text': review['text']['text'] if 'text' in review else '',
@@ -75,7 +80,7 @@ def process_place (place):
                 'uri': review['authorAttribution']['uri'],
                 'publish_time': review['publishTime']
             })
-    print(out)
+    # print(out)
     def process_file_name(place_name):
         return place_name.replace('|', '').replace(r"[ ]{2,}", ' ')
 

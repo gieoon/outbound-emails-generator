@@ -25,9 +25,9 @@ async def generate_email(title, meta_description, website_owners, company_name, 
                     ==========================================================
                     
                     Generate a very short email to this website's owner to introduce them to my website design services.
+                    Offer to help them upgrade their website
                     Use simple and easy to read language. Keep it brief.
                     Put their company name, {company_name} in the subject and personalize the email to their company and industry, with suggested offerings based on what they might need.
-                    Mention features I can provide which would be most useful to their company. 
                     Link to https://www.webbi.co.nz and let them know what value they can get from here.
                     Do not use placeholders.
 
@@ -51,8 +51,11 @@ async def generate_email(title, meta_description, website_owners, company_name, 
         model="gpt-4-1106-preview"
     )
     
-    # print('chat_completion:', chat_completion)
-    return chat_completion.choices[0].message.content
+    email = chat_completion.choices[0].message.content
+    print('email:', email)
+    input('Is this email ok?')
+
+    return email
 
 async def extract_from_page (content):
 

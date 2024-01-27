@@ -1,0 +1,74 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ8VZxvcwfMm0RSjBRBGTFgRY
+national_phone_number:03 341 6905
+international_phone_number:+64 3 341 6905
+formatted_address:Level 2/219 High Street, Christchurch Central City, Christchurch 8011, New Zealand
+utc_offset_minutes:780
+rating:4.4
+google_maps_uri:https://maps.google.com/?cid=1621794374189920330
+website_uri:http://www.leighsconstruction.co.nz/
+adr_format_address:Level 2/<span class="street-address">219 High Street</span>, <span class="extended-address">Christchurch Central City</span>, <span class="locality">Christchurch</span> <span class="postal-code">8011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:25
+display_name:Leighs Construction
+language:en
+short_formatted_address:Level 2/219 High St, Christchurch Central City, Christchurch
+==== Review ====
+rating: 5
+text: Electrical engineer I have 11yr Exp in various field like oil and gas nuclear Power plant, wtp,stp, sub station
+language: en
+author: AAMIR ALAM
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUsH-drvDhYioim9jmTGXxeezuEr7rbvnJ0xPaH7PAB8S4=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/101555391364907524176/reviews
+publish_time: 2023-11-04T05:28:18Z
+==== Review ====
+rating: 5
+text: I have received offer letter from your company so how can I join this company with you.
+language: en
+author: Tushar
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXMXsr9LVLHKwTnsurinoTVvA6IF7qvM8QgQp1EkJXGI6xM=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/101522412089495033185/reviews
+publish_time: 2023-08-23T12:20:57Z
+==== Review ====
+rating: 1
+text: I was a labourer on the Science Precinct, Laboratory Redevelopment at the University of Otago. One day, when moving a joinery cabinet, I tripped and fell backwards injuring my right shin in the process. My supervisor Michael Wood was overseeing this so saw the accident, take place and despite the excruciating pain I was in showed absolutely no regard for my welfare. However, he did ask about the cabinet's condition!!
+
+His indifference was humiliating and made me feel worthless, not to mention contradicts Leigh's Health & Safety Policy, and their Site Rules which reference an environment where workers are treated with respect and dignity. Neither of these were afforded me.
+
+I raised this with Health & Safety Officer Tracey Chaplin (Ceres Environmental NZ, Dunedin) I also sought advice from others. After telling her my account of what happened, she filled out an incident report, but it was wholly unsatisfactory, as it made no mention of the incident. Following some toing and froing she presented me with the final draft, and then said curtly that, “it hasn't been amended and won't be amended".
+
+Sometime later I was called into the site office and had a brief ‘conversation’ with Colin James, and Tony Abernethy (Naylor Love, Dunedin). Colin was unhappy I did not come to him with my concerns initially and instead chose to take matters into my own hands. Despite this, I did my best to convey how I felt about the situation, but to no avail, and much to my dismay, Tony flippantly excused the behaviour as nothing more than, “gallows humour”, at which point I was shown the door.
+
+This review details only some of what occurred during my time on site. There were other instances of Michael Wood’s bullying behaviour, to say nothing of his volcanic temper (of which most I suspect were never reported) some of it directed at Leigh's Employees. Tracey Chaplin (along with management) would have been a witness to one or more of them and aware of others yet chose to turn a deaf ear or blind eye.
+
+I raised this with Anthony Leighs in an email and to his credit was sympathetic, however, when I enquired, if any, of the aforementioned had been provided with a reference, and if so, was he still willing to honour them in view of said email his reply concluded with, "We have no further comment to make".
+
+This was my first time working on a construction site and, while a relatively liberal workplace is to be expected I would hope that what happened to me and others was an anomaly and not indicative of the construction industry in the main.
+
+Regardless Leighs is unprofessional, dishonest coupled with a lack of integrity and an apathetic/invertebrate management, and in light of recent events not only condone bullying and professional misconduct, but reward it as well.
+language: en
+author: Sotto Voce
+photo: https://lh3.googleusercontent.com/a/ACg8ocLABRwCjpBmC8W1Rsw4RB8LiECNp1jb5QxzrVYshbsn=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/106472989423665632023/reviews
+publish_time: 2021-10-05T05:03:12Z
+==== Review ====
+rating: 5
+text: God bless u Sir...
+I have finished my 4yrs contract in Saudi as a plumber and mechanical fitter
+At a present I'm working in Qatar 2yrs.contract
+My special skill are,,HVAC installer pipe and I know how 2 welding copper pipe
+Pls.pls.pls.pls.help me 2 join ur team.
+Thanks... God bless u..jesus name
+Glory 2 god
+language: en
+author: Allan bernaldo
+photo: https://lh3.googleusercontent.com/a/ACg8ocJAGw6FWRGY-9aJY-t5aSBzKlbvjUOpqvMyMWGgc81E=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105676661351900912281/reviews
+publish_time: 2016-01-21T06:42:15Z
+==== Review ====
+rating: 5
+text: Hi hello I am Elmer Leones i am a construction workers present working now in the saudi arabia. I lead people to manage any kind of work, presently i am a foreman in the company of marrakech Art establishment here in saudi arabia. I am skilled worker like Tile sitter, installing wall paper,installing wood parque,decorative painter,putting the gold leafing, carpenter and welder, My desire is to work Leigh construction in new zealand. Presently i am working now in saudi arabia but after finish my contract here in saudi incoming july 2015 by Gods will if i am qualified in your company i hope i can work in LEIGH  construction....for more inforemation just e mail me [elleones18@gmail,com]
+language: en
+author: Elmer Leones
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVWHi_74mUMgtkN3QsJc-0EpKe5cWsDBEC72lH0XHZOEg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/116355554278394583301/reviews
+publish_time: 2014-12-27T19:35:06Z
