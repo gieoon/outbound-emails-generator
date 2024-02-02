@@ -11,9 +11,6 @@ async def get_company_website_details(page, url):
     # return type [title, meta_description, emails, owners]
     return await get_url_details(page, url, "")
 
-
-    
-
 async def get_url_details(page, company_url, content, no_recursion=False):
     # for company_url in f.readlines():
     #     print("company_url: ", company_url)
