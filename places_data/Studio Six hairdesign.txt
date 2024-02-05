@@ -1,0 +1,55 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJXTcFHGiTO20RUL74EkCmr_U
+national_phone_number:0210 546 410
+international_phone_number:+64 210 546 410
+formatted_address:6 Marlowe Street, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.9
+google_maps_uri:https://maps.google.com/?cid=17703551454343118416
+website_uri:no website
+adr_format_address:<span class="street-address">6 Marlowe Street</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:7
+display_name:Studio Six hairdesign
+language:en
+short_formatted_address:6 Marlowe St, Stoke, Nelson
+==== Review ====
+rating: 5
+text: Fantastic lady! Magic fingers. I have a hair style I wanted all my life and never had at. Amy did AMAZING job. Thanks Amy!
+language: en
+author: Anna Kostic
+photo: https://lh3.googleusercontent.com/a/ACg8ocIe8zPeHAsQhGDE5-LMriJS-648NTXNxUNxBYDiAyPH=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/111209421974205354835/reviews
+publish_time: 2022-11-18T03:00:38Z
+==== Review ====
+rating: 5
+text: Aimee's the best hairdresser in town! We love her!
+language: en
+author: whits6
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVLctzIA4E0-QNgFBuYS8pJn-DZ9uk_gJkiVuZTr2PcGYvr=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/106734956611083436289/reviews
+publish_time: 2022-09-08T02:54:19Z
+==== Review ====
+rating: 5
+text: Very kind and caring hairdresser!
+And great at her job
+language: en
+author: Kimberley Musika
+photo: https://lh3.googleusercontent.com/a-/ALV-UjWNE_JfIybh-rFuBA3LnMo0fp4xO7rRNEQcB8A5DE74Rw=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110804178656955672879/reviews
+publish_time: 2021-05-17T22:35:02Z
+==== Review ====
+rating: 4
+text: Amy is really nice and the setup is very professional.
+language: en
+author: Donna Pudney
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXJLgCqZ8PJ30zL_keNR8bUC3PQDQKqrkJwkKTXnHUGZ70=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/108447223118150304280/reviews
+publish_time: 2020-09-28T03:50:49Z
+==== Review ====
+rating: 5
+text: Excellent haircut thanks
+language: en
+author: Hamish Currie
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXV7UI9D1_fIJXNe4YyG9IaSSOgsjfa_NpEc_cKAjvShGc=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109977474913763101414/reviews
+publish_time: 2019-02-27T03:18:16Z

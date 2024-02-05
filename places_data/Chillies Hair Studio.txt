@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJSSBarFyTO20RYJRBorwGCao
+national_phone_number:03 547 7181
+international_phone_number:+64 3 547 7181
+formatted_address:516 Main Road Stoke, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.7
+google_maps_uri:https://maps.google.com/?cid=12252331668483970144
+website_uri:no website
+adr_format_address:<span class="street-address">516 Main Road Stoke</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:53
+display_name:Chillies Hair Studio
+language:en
+short_formatted_address:516 Main Rd Stoke, Stoke, Nelson
+==== Review ====
+rating: 5
+text: If you want your hair cut and dyed I subject going here. The quality of services here is amazing. The staff are so nice here. I got my hair dyed brown for only $180 and the quality of it is amazing.
+language: en
+author: Rhi Davie
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUPEX-tXG2dFaB5sQb7m2VeDIO9sjZVJEEnZAJnqFCa6EQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110475616987355423693/reviews
+publish_time: 2023-11-15T04:44:11Z
+==== Review ====
+rating: 5
+text: These ladies are amazing! One of my sons has very curly hair and no one has cut it well and he has always been disappointed with the outcome. But today, Chillies did an amzing job! First time ever he has been VERY happy with the hair cut. Thankyou so much. You made his day.
+language: en
+author: Lyndell Watson
+photo: https://lh3.googleusercontent.com/a/ACg8ocJyj3ja_x7bFA83BhgfNuBFaolERO0uJhUP1Iki7Ad5=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112346611458641510545/reviews
+publish_time: 2023-08-03T09:19:01Z
+==== Review ====
+rating: 4
+text: Brenda a fantastic hairdresser. I wouldn't go any where else. Been going for approx 18 years first to Michelle then Brenda. Always a happy atmosphere and good service.
+language: en
+author: janet Way
+photo: https://lh3.googleusercontent.com/a/ACg8ocIOw7biEX3msqtSRSntqaN9JrXHqovqoWi3rzn8oE34=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/109056356873600882853/reviews
+publish_time: 2023-08-12T00:16:36Z
+==== Review ====
+rating: 5
+text: I can't thank Courtney from Chillies Hair Studio for outstanding service over a number of years. All the staff are wonderful and dedicated to providing a high standard of hairdressing at affordable prices. Grateful thanks to you all.
+language: en
+author: Jan De Courcy
+photo: https://lh3.googleusercontent.com/a/ACg8ocJ8yGv6R4GqtvP2ObnZLqqvrpwtGXfB_0kX0frJq00t=s128-c0x00000000-cc-rp-mo-ba5
+uri: https://www.google.com/maps/contrib/100511460761833094622/reviews
+publish_time: 2023-01-25T01:24:32Z
+==== Review ====
+rating: 5
+text: Always a friendly atmosphere, fast and professional haircuts.
+language: en
+author: Dóra dr. Kardos
+photo: https://lh3.googleusercontent.com/a/ACg8ocKi0r31bgG_GJohxR6K_K24M3Y0PG9Z14mB-s5uzeR9=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/117564497576349185810/reviews
+publish_time: 2023-10-13T23:03:37Z

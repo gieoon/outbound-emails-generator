@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ4WdkF9WSO20RtKtec00yXvg
+national_phone_number:03 546 5050
+international_phone_number:+64 3 546 5050
+formatted_address:39 Parkers Road, Tāhunanui, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.8
+google_maps_uri:https://maps.google.com/?cid=17896797277446384564
+website_uri:no website
+adr_format_address:<span class="street-address">39 Parkers Road</span>, <span class="extended-address">Tāhunanui</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:24
+display_name:Hair Craft
+language:en
+short_formatted_address:39 Parkers Rd, Tāhunanui, Nelson
+==== Review ====
+rating: 5
+text: As always a lovely experience - Hayleigh is super talented and can work with a range of hair types. I love my new cut!
+language: en
+author: Zara Jensen
+photo: https://lh3.googleusercontent.com/a/ACg8ocJh3c4HUNI4PHbqAo-BF2IQqaXaKEH0eTWakd3ck3-x=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/101338681791395661418/reviews
+publish_time: 2023-02-10T19:15:47Z
+==== Review ====
+rating: 5
+text: I have been going to Hair Craft over three years now. Lovely, very friendly place and since the owner Hayleigh started to work on my hair, I could not be more happy. She is creative, very knowledgable about hair care and her attention to details is admirable. Hayleigh always makes me feel special and my hairstyle is always "with the times". It is worth the drive all the way from Mapua.
+language: en
+author: Vita Otrubova
+photo: https://lh3.googleusercontent.com/a/ACg8ocIB1t2g5iszTfFzcz4IFDdJY_i0GTpHOuMNWLG0CcdH=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/103902758884384140285/reviews
+publish_time: 2022-02-18T23:22:20Z
+==== Review ====
+rating: 5
+text: I love the way Hayleigh cuts and colours my hair, I feel younger, funky ànd just boosts my confidence. She gets me xx
+language: en
+author: Belinda Wyles
+photo: https://lh3.googleusercontent.com/a/ACg8ocIrT0g-cNtFwB8vFWwoMtZVsFmKGY31U3f-IMK_p9nV=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108953941451863734337/reviews
+publish_time: 2022-10-25T03:47:37Z
+==== Review ====
+rating: 4
+text: A very professional salon. Managed a walk in hair cut ,very nice. Well presented busy salon practise,  with all Covid safety requirements.
+language: en
+author: Jan Wells
+photo: https://lh3.googleusercontent.com/a/ACg8ocI-khixAUSMxV_ygSVKBLe1J7J2Vzk1Ei20zT_r85rB=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/114006193775466113455/reviews
+publish_time: 2021-12-12T22:30:22Z
+==== Review ====
+rating: 5
+text: Love my hair cut. Staff are so friendly, relaxed and chatty. Yum hot chocolate, or other drinks are available. Great place to get a hair cut.
+language: en
+author: Chrissy Julian
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU442ZFqvBWsxFwtX2iAlTNJQeqlon6FbbYwMKb-JM6WA=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/109800710397410517736/reviews
+publish_time: 2019-03-16T05:37:13Z

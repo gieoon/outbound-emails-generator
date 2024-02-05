@@ -1,0 +1,55 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJG0hPABqVO20ROII_8WfkUiA
+national_phone_number:022 411 5074
+international_phone_number:+64 22 411 5074
+formatted_address:32 Heritage Crescent, Richmond 7050, New Zealand
+utc_offset_minutes:780
+rating:4.9
+google_maps_uri:https://maps.google.com/?cid=2329175092384203320
+website_uri:no website
+adr_format_address:<span class="street-address">32 Heritage Crescent</span>, <span class="locality">Richmond</span> <span class="postal-code">7050</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:21
+display_name:HAIR-itage Studio
+language:en
+short_formatted_address:32 Heritage Cres, Richmond
+==== Review ====
+rating: 5
+text: First time visiting Jenny at Hair-itage and I found her amazing. She was kind and professional and listened to all concerns I had with my hair. She offered some great advice and gave me a lovely haircut at a reasonable price 😍
+language: en
+author: Kasey MacKinnon
+photo: https://lh3.googleusercontent.com/a/ACg8ocLGVZklqFXHvTJ3Zvxd3ioJXP0GkEgANVJrSiLePCC0=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100737471129197597723/reviews
+publish_time: 2023-04-20T01:31:41Z
+==== Review ====
+rating: 5
+text: Awesome service, Awesome cuts, Awesome Price. Been coming here for my haircuts for over 4-years now!
+language: en
+author: Jan-Hendrik Uys
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXAZsXtvp3UuflY2hap6WewDrjW4tLSGway110erCdOExha=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/111168885892684178706/reviews
+publish_time: 2023-11-09T01:52:07Z
+==== Review ====
+rating: 5
+text: Love this place. Jen is amazing. The pop of colour from her collection its awesome. 100% go here.
+language: en
+author: Olivia Harvey
+photo: https://lh3.googleusercontent.com/a/ACg8ocIJw2H3mdnNOg2y4OO0V1qJvrmWALQvY4MI3WbBOLih=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100729841172797475084/reviews
+publish_time: 2020-06-26T03:38:53Z
+==== Review ====
+rating: 5
+text: Jenny is amazing at what she does and has provided me with reasonably priced Haircuts for Years now.
+She works hard to help many people each day and deserves the credit!
+language: en
+author: Caleb Fitzgerald
+photo: https://lh3.googleusercontent.com/a/ACg8ocKvA-ZLuNvARAHLNmMmUrRqZMM8DaQm5-pAlAhjtDaS=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/105925377582351547449/reviews
+publish_time: 2023-03-17T22:41:50Z
+==== Review ====
+rating: 4
+text: Jenny is professional and does a great hair cut. She is always interested in her client and makes you feel very special
+language: en
+author: Max Gribble
+photo: https://lh3.googleusercontent.com/a/ACg8ocJdOQwe80Dkj7xW61EB4tYd44_9eAjbR5pIwoh-Cfg=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108488287462667637799/reviews
+publish_time: 2022-05-08T07:28:11Z

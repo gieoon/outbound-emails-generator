@@ -1,0 +1,54 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ8-sgHEGTO20RBiJJNZ6tQRQ
+national_phone_number:03 547 5800
+international_phone_number:+64 3 547 5800
+formatted_address:237 Nayland Road, Stoke, Nayland 7011, New Zealand
+utc_offset_minutes:780
+rating:4.2
+google_maps_uri:https://maps.google.com/?cid=1459638649255174662
+website_uri:no website
+adr_format_address:<span class="street-address">237 Nayland Road</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nayland</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:37
+display_name:Sophisticutz Hair Design
+language:en
+short_formatted_address:237 Nayland Rd, Stoke, Nayland
+==== Review ====
+rating: 2
+text: Went there a few times, even when we moved out of town. Our sons hair was cut terribly last time and I asked one of the ladies not to cut more than 4 inches off our daughter's hair. She seemed super proud of what looked like 6-7 inches off. Our daughter had beautiful long hair back then. Lovely ladies.... just need to listen.
+language: en
+author: Nina Elisabeth Bakker
+photo: https://lh3.googleusercontent.com/a-/ALV-UjVAR4ff4poBB5Q5jzF-YCVnzKwwqff-AdqWmBW1jec5OM0=s128-c0x00000000-cc-rp-mo-ba4
+uri: https://www.google.com/maps/contrib/109126151702398549124/reviews
+publish_time: 2023-03-23T19:03:27Z
+==== Review ====
+rating: 5
+text: The Sophisticutz team come highly recommended.  Easy to find, friendly, great salon and fantastic hairdressing experience, we will be back.
+language: en
+author: Tracy Nicholas Richmond
+photo: https://lh3.googleusercontent.com/a/ACg8ocJLV5KcJIaxE4X_Y9bZB9qmYqqbMwEbZcusAodNuwMk=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/102569536383704125418/reviews
+publish_time: 2020-06-10T22:01:16Z
+==== Review ====
+rating: 1
+text: Highly not recommended, their apprentice just spoiled my daughter’s hair, terrible cut, just like in the worst internet memes. Just to add in regards the answer below: besides the hairdresser cut it much shorter we discussed, she cut it unevenly with one side clearly shorter than another. Doesn’t look like a professional cut anyway. Thanks for mot charging me though, as I’ll need to spend these money in a professional salon to fix the damage.
+language: en
+author: Anastasija Zaiko
+photo: https://lh3.googleusercontent.com/a/ACg8ocJnMMfdzRv8Mp4H7o9ns-SCGJCkpWbLz02hkAuUQZr5=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103710900710557907265/reviews
+publish_time: 2020-12-22T00:17:20Z
+==== Review ====
+rating: 5
+text: Super nice hairstylists and very caring that the result of my curly perm would be perfect and that I would be comfortable during the two hours there.  And it looks great!
+language: en
+author: IM Wells
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXAO3UCqkVGjfJF2RIc1ZPOoxG6zpWaawzclXleNC6Ub3k=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/112418104367463753190/reviews
+publish_time: 2021-04-14T03:32:29Z
+==== Review ====
+rating: 5
+text: Amazing as always. Awesome haircut and colour. Thankyou Kim.
+language: en
+author: Trudy Mallaburn
+photo: https://lh3.googleusercontent.com/a/ACg8ocLgE18bs_myNjzIRO37dBslWyDryJEw3xeCNTTQ9MNO=s128-c0x00000000-cc-rp-mo-ba3
+uri: https://www.google.com/maps/contrib/104421499117150183193/reviews
+publish_time: 2023-05-03T21:15:57Z

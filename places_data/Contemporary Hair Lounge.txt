@@ -1,0 +1,65 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJ5ejQVkOTO20Rl8DvCtaMpNI
+national_phone_number:03 547 9004
+international_phone_number:+64 3 547 9004
+formatted_address:9 Putaitai Street, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.6
+google_maps_uri:https://maps.google.com/?cid=15178411495079788695
+website_uri:no website
+adr_format_address:<span class="street-address">9 Putaitai Street</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:32
+display_name:Contemporary Hair Lounge
+language:en
+short_formatted_address:9 Putaitai St, Stoke, Nelson
+==== Review ====
+rating: 1
+text: Used this place as my usual was unavailable. Never again.
+Very uncomfortable experience.
+
+When I first entered the couple announced that they knew who I was via a mutal friend, then proceeded to try to negatively gossip about said mutual friend. Which I was not at all interested in.
+
+I have dreadlocks and asked for a simple undercut, which i can say was done well, unfortunately being told
+'who would even have this awful hairstyle'
+while sitting in the chair was not something I was expecting when I go to any hairdresser.
+
+Following on from that they continued to try and make small talk, which ended up with them asking about my work place, followed up with comments of 'they would never go there'
+
+Safe to say I will not be going back here, nor will I recommend this place to anybody.
+language: en
+author: Michaela Algar
+photo: https://lh3.googleusercontent.com/a/ACg8ocLSNF4gSknFQf-7MlszXgmPMhxB67VzB0b2pn687n_9=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/108663316695415564301/reviews
+publish_time: 2023-10-10T22:18:10Z
+==== Review ====
+rating: 5
+text: So happy with my haircut and style.Excellent service.Thank  you
+language: en
+author: Annie Mcbrydie
+photo: https://lh3.googleusercontent.com/a/ACg8ocJoRZ6dVZ5dBAeJcpidazfpzf6lG3n4q28Xk14snStb=s128-c0x00000000-cc-rp-mo-ba2
+uri: https://www.google.com/maps/contrib/113843307564414752262/reviews
+publish_time: 2024-01-26T19:56:59Z
+==== Review ====
+rating: 5
+text: Highly recommend Belinda! Absolute Gem, nothing but professional, and actually listens to what you want. I travel 3 hrs just to get my hair done by Belinda as I can not stand to pay money for something that I'm not happy with.
+language: en
+author: Leeanne Hunter
+photo: https://lh3.googleusercontent.com/a/ACg8ocJXZTJFDRVYZ7B_7rA-JXulKu0tGM0ULbXQAr2flqP1=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/101033586976940083587/reviews
+publish_time: 2019-07-08T07:12:28Z
+==== Review ====
+rating: 5
+text: Amazing results and friendly staff definitely recommend they are warm welcoming people.
+language: en
+author: Krystal Montrose Russell
+photo: https://lh3.googleusercontent.com/a/ACg8ocIDqwQCM23gHGpzEgg-NV26gcz2Z5GRRhNc3IrlkhrZ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/113303923311026956750/reviews
+publish_time: 2023-09-28T00:33:53Z
+==== Review ====
+rating: 5
+text: Best boy’s haircut around. Funny friendly barber did a bang up job.
+language: en
+author: Stacey Walden
+photo: https://lh3.googleusercontent.com/a-/ALV-UjU-H15SNnq49jJrHTF_TLzLVOKNjBDu1wiB4nbHCSG_F7w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110487884690007768755/reviews
+publish_time: 2023-10-10T02:17:35Z

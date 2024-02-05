@@ -57,6 +57,19 @@ async def generate_email(title, meta_description, website_owners, company_name, 
 
     return email
 
+async def json_from_maps_data (content):
+
+    chat_completion = await client.chat.completsion.create(
+        messages=[
+            {
+                "role": "user",
+                "content": f"""
+                    
+                """
+            }
+        ]
+    )
+
 async def extract_from_page (content):
 
     chat_completion = await client.chat.completions.create(

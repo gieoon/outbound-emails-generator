@@ -1,0 +1,55 @@
+url:https://www.google.com/maps/place/?q=place_id:ChIJg1zP7IWTO20RlrATl7Qx1tU
+national_phone_number:03 970 6584
+international_phone_number:+64 3 970 6584
+formatted_address:7 Putaitai Street, Stoke, Nelson 7011, New Zealand
+utc_offset_minutes:780
+rating:4.3
+google_maps_uri:https://maps.google.com/?cid=15408557826793255062
+website_uri:no website
+adr_format_address:<span class="street-address">7 Putaitai Street</span>, <span class="extended-address">Stoke</span>, <span class="locality">Nelson</span> <span class="postal-code">7011</span>, <span class="country-name">New Zealand</span>
+business_status:OPERATIONAL
+user_rating_count:45
+display_name:Jojo's Nail & Wax Spa
+language:en
+short_formatted_address:7 Putaitai St, Stoke, Nelson
+==== Review ====
+rating: 5
+text: Went here to get my lashes and brows tinted and was not disappointed. Wasn’t a long waiting time for a time slot and the price was very good. For only $55, you can get a quality tint done and get kind customer service. Really recommend this place
+language: en
+author: Rhi Davie
+photo: https://lh3.googleusercontent.com/a-/ALV-UjUPEX-tXG2dFaB5sQb7m2VeDIO9sjZVJEEnZAJnqFCa6EQ=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/110475616987355423693/reviews
+publish_time: 2024-01-15T05:08:51Z
+==== Review ====
+rating: 5
+text: I absolutely in love w my gorgeous nails 💅🏽!!! These have to be my fav so far🥰🥰
+Hand designed these off the internet, everything I asked for. Will always come here as my customers always complement my nails❤️ love the service JOJO!!!! Xox
+language: en
+author: Rahera Marsh
+photo: https://lh3.googleusercontent.com/a/ACg8ocJE1q88z5M6CVjmW0fIEvGS_cekKCMbXKpsp1dyo7Tj=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/107986141980620180225/reviews
+publish_time: 2023-11-08T03:46:40Z
+==== Review ====
+rating: 1
+text: Place is abit unhygienic & I thought charging $48 for a toe (gel) polish & nail shape was steep! Would be reasonable if it was the spa pedicure but I just wanted a quick polish and shape, which was all I got. Won’t be going back & don’t recommend this place.
+language: en
+author: Erika
+photo: https://lh3.googleusercontent.com/a-/ALV-UjXSlCUM0-dqRPkeK4mLlTwz4hZEDTVLa1jAT1FNGuU-nJI=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100583538417312923129/reviews
+publish_time: 2023-11-22T23:38:48Z
+==== Review ====
+rating: 2
+text: I guess the saying is you get what you pay for… I had high expectations as the reviews were really good but I had a spa pedicure and it felt really rushed.. I don’t think I was in the chair for longer than 10minutes, also the bottom of my feet feel worse than before I feel like I need another foot scrub and I just got a pedicure yesterday.
+language: en
+author: Lanie Wilsonvvbfv
+photo: https://lh3.googleusercontent.com/a/ACg8ocJeOZ7cDMeKDNJzPlqCfijE1gZmqOl7V2PUKWsG_s4w=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/100779064176086819084/reviews
+publish_time: 2023-12-30T04:52:55Z
+==== Review ====
+rating: 1
+text: Wouldn't recommend. Lying on an unhygienic blanket and head on a pillow with a towel that had hair on it. Untidy, uncomfortable and Jojo was rushing to get to other clients so I had a huge bruise on one thigh. $70 for a full leg wax which I thought was expensive. Won't return.
+language: en
+author: Kristina Grace
+photo: https://lh3.googleusercontent.com/a/ACg8ocKyehsKmz1Ogia96JWIl-BGQwdRrkt0InmSB9cZMpz-=s128-c0x00000000-cc-rp-mo
+uri: https://www.google.com/maps/contrib/103017079484919532858/reviews
+publish_time: 2024-01-10T22:28:14Z
