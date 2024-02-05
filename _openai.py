@@ -1,6 +1,7 @@
 from openai import AsyncOpenAI
 import os
 import re
+from _unsplash import get_unsplash_images
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -59,13 +60,60 @@ async def generate_email(title, meta_description, website_owners, company_name, 
 
 async def json_from_maps_data (content):
 
-    chat_completion = await client.chat.completsion.create(
+    chat_completion = await client.chat.completions.create(
         messages=[
             {
-                "role": "user",
+                "role": "system",
                 "content": f"""
-                    
-                """
+                    Given the information on a business, respond in JSON format like this with copywriting for each section of a website.
+                    Replace empty quote placeholders.
+                    Generate content where necessary
+                    All fields must be filled out.
+                    {{
+                        "BUSINESS NAME": "",
+                        "TOP TEXT": "",
+                        "TOP TAGLINE": "",
+                        "TOP CTA": "",
+                        "SECTION 1 TITLE": "",
+                        "SECTION 2 DESCRIPTION": "",
+                        "SECTION 1 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 1 TITLE": "",
+                        "SECTION 1 LIST ITEM 1 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 2 TITLE": "", 
+                        "SECTION 1 LIST ITEM 2 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 3 TITLE": "", 
+                        "SECTION 1 LIST ITEM 3 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 4 TITLE": "", 
+                        "SECTION 1 LIST ITEM 4 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 5 TITLE": "", 
+                        "SECTION 1 LIST ITEM 5 DESCRIPTION": "",
+                        "SECTION 1 LIST ITEM 6 TITLE": "", 
+                        "SECTION 1 LIST ITEM 6 DESCRIPTION": "", 
+                        "SECTION 2 TITLE": "",
+                        "SECTION 3 TITLE": "",
+                        "SECTION 3 LIST ITEM 1 TITLE" : "",
+                        "SECTION 3 LIST ITEM 2 TITLE" : "",
+                        "SECTION 3 LIST ITEM 3 TITLE" : "",
+                        "SECTION 4 TITLE": "",
+                        "SECTION 4 LIST ITEM 1 TITLE": "",
+                        "SECTION 4 LIST ITEM 2 TITLE": "",
+                        "SECTION 4 LIST ITEM 3 TITLE": "",
+                        "TESTIMONIAL 1": "",
+                        "TESTIMONIAL 1 AUTHOR": "",
+                        "TESTIMONIAL 1 ROLE": "",
+                        "BOTTOM CTA TITLE": "",
+                        "BOTTOM CTA DESCRIPTION":"",
+                        "BOTTOM CTA BUTTON TEXT": "",
+                        "ABOUT_PAGE CONTENT": "",
+                        "CONTACT_Phone": "{{contact phone}}",
+                        "CONTACT_Address": "{{address}}"
+                    }}
+                """,
+
+            },
+            {
+                "role": "user",
+                "content": f"{content}"
             }
         ]
     )

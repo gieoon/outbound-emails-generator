@@ -147,7 +147,10 @@ def process_place (place):
 # query = "Webbi Digital Studio, Richmond Nelson"
 # query = "Rotary Clubs in Auckland"
 # query = "Construction companies in Christchurch"
-query = "new zealand nelson stoke hairdresser"
+location = "new zealand nelson stoke"
+business_type = "hairdresser"
+query = location + ' ' + business_type
 searchNearby(query)
 
 print('no websites: ', no_website_count, '/20')
+
